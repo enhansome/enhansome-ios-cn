@@ -1583,7 +1583,7 @@
                 "last_commit": "2026-07-13T10:50:19Z",
                 "owner": "SnapKit",
                 "repo": "SnapKit",
-                "stars": 20344
+                "stars": 20345
               }
             },
             {
@@ -2344,7 +2344,7 @@
                 "last_commit": "2023-01-17T19:30:05Z",
                 "owner": "AFNetworking",
                 "repo": "AFNetworking",
-                "stars": 33393
+                "stars": 33392
               }
             },
             {
@@ -3443,7 +3443,7 @@
                 "last_commit": "2024-12-18T15:30:58Z",
                 "owner": "calimarkus",
                 "repo": "JDStatusBarNotification",
-                "stars": 4332
+                "stars": 4331
               }
             },
             {
@@ -5059,10 +5059,10 @@
                 "archived": false,
                 "id": 35732214,
                 "language": "Swift",
-                "last_commit": "2026-08-21T20:30:20Z",
+                "last_commit": "2026-08-24T20:58:09Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19707
+                "stars": 19709
               }
             },
             {
@@ -5077,7 +5077,7 @@
                 "last_commit": "2026-06-11T20:34:01Z",
                 "owner": "FLEXTool",
                 "repo": "FLEX",
-                "stars": 14628
+                "stars": 14629
               }
             },
             {
@@ -5615,7 +5615,7 @@
                 "last_commit": "2026-07-12T18:50:59Z",
                 "owner": "square",
                 "repo": "Valet",
-                "stars": 4174
+                "stars": 4175
               }
             },
             {
@@ -5701,7 +5701,7 @@
             "last_commit": "2026-08-22T17:45:35Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13101
+            "stars": 13103
           }
         },
         {
@@ -6344,7 +6344,7 @@
             "last_commit": "2026-08-18T00:55:28Z",
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42019
+            "stars": 42023
           }
         },
         {
@@ -6394,7 +6394,7 @@
                 "archived": false,
                 "id": 738491,
                 "language": "Swift",
-                "last_commit": "2026-08-19T21:06:42Z",
+                "last_commit": "2026-08-24T17:31:34Z",
                 "owner": "facebook",
                 "repo": "facebook-ios-sdk",
                 "stars": 8088
@@ -6424,7 +6424,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-24T02:34:26Z",
+                "last_commit": "2026-08-24T21:48:29Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2563
@@ -7516,10 +7516,10 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-24T13:10:37Z",
+            "last_commit": "2026-08-24T21:05:47Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51826
+            "stars": 51832
           }
         },
         {
@@ -7534,7 +7534,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33621
           }
         },
         {
@@ -7549,7 +7549,7 @@
             "last_commit": "2018-03-08T08:57:40Z",
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11216
+            "stars": 11215
           }
         },
         {
@@ -7659,7 +7659,7 @@
                 "last_commit": "2026-04-12T14:34:57Z",
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5882
+                "stars": 5883
               }
             }
           ]
@@ -7669,7 +7669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:46.958Z",
+    "last_updated": "2026-08-24T21:48:39.927Z",
     "original_repository": "jobbole/awesome-ios-cn",
     "original_repository_id": 45461723,
     "original_repository_sha": "5f2e1897205e26b05eed433f0d5c520c6e0dffff",
