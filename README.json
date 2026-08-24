@@ -129,7 +129,7 @@
                 "last_commit": "2020-01-02T19:13:40Z",
                 "owner": "facebookarchive",
                 "repo": "pop",
-                "stars": 19542
+                "stars": 19541
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2023-07-03T14:28:34Z",
                 "owner": "MengTo",
                 "repo": "Spring",
-                "stars": 14043
+                "stars": 14047
               }
             },
             {
@@ -276,6 +276,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Voucher",
+              "description": "：方便 tvOS App 通过 iOS 设备上相应的程序来认证的库。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45768914,
+                "language": "Objective-C",
+                "last_commit": "2017-03-05T23:35:05Z",
+                "owner": "rsattar",
+                "repo": "Voucher",
+                "stars": 511
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apple TV"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JSPatch",
+              "description": "：JSPatch 利用 Objective-C 运行时桥接了 Objective-C 和 Javascript。你仅需引入一个小的引擎，就可以使用 JS 调用任何 Objective-C 的类。JSPatch 通常用来对 iOS App 做热修复（hotfix）。官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36205608,
+                "language": "Objective-C",
+                "last_commit": "2020-12-01T02:18:35Z",
+                "owner": "bang590",
+                "repo": "JSPatch",
+                "stars": 11331
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "桥接"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome Cache",
               "description": "：让人喜爱的本地缓存 ★官网",
               "children": [],
@@ -353,7 +397,7 @@
                 "last_commit": "2025-06-05T07:06:39Z",
                 "owner": "PhilJay",
                 "repo": "MPAndroidChart",
-                "stars": 38192
+                "stars": 38193
               }
             },
             {
@@ -828,6 +872,50 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "AESCrypt-ObjC：一个简单固执的 AES 加密／解密类，然而它就是可以很好的工作。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5240064,
+                "language": "Objective-C",
+                "last_commit": "2016-07-04T15:33:34Z",
+                "owner": "Gurpartap",
+                "repo": "AESCrypt-ObjC",
+                "stars": 772
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "加密"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MotionKit",
+                  "description": "：只需要两行或者很少的几行代码就可以从加速度传感器、陀螺仪和磁力传感器获取数据。现在 CoreMotion 让这些变得前所未有的简单。官网",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30799212,
+                    "language": "Swift",
+                    "last_commit": "2018-05-07T03:00:53Z",
+                    "owner": "MHaroonBaig",
+                    "repo": "MotionKit",
+                    "stars": 1081
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "动作"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1092,7 +1180,7 @@
                 "last_commit": "2023-02-16T17:26:12Z",
                 "owner": "pkluz",
                 "repo": "PKHUD",
-                "stars": 3778
+                "stars": 3776
               }
             },
             {
@@ -1107,7 +1195,7 @@
                 "last_commit": "2026-08-02T13:05:17Z",
                 "owner": "relatedcode",
                 "repo": "ProgressHUD",
-                "stars": 2969
+                "stars": 2968
               }
             },
             {
@@ -1246,6 +1334,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FileKit",
+              "description": "：Swift 实现的简单快捷的文件管理工具。★官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41773162,
+                "language": "Swift",
+                "last_commit": "2024-04-09T03:20:24Z",
+                "owner": "nvzqz",
+                "repo": "FileKit",
+                "stars": 2360
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "文件"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SwiftyJSON：使用 Swift 处理 JSON 数据的好方法。★官网",
               "description": null,
               "children": [],
@@ -1256,7 +1366,7 @@
                 "last_commit": "2026-08-18T07:07:07Z",
                 "owner": "SwiftyJSON",
                 "repo": "SwiftyJSON",
-                "stars": 22951
+                "stars": 22950
               }
             },
             {
@@ -1286,7 +1396,7 @@
                 "last_commit": "2024-05-02T13:32:48Z",
                 "owner": "tristanhimmelman",
                 "repo": "ObjectMapper",
-                "stars": 9138
+                "stars": 9137
               }
             },
             {
@@ -1766,7 +1876,7 @@
                     "last_commit": "2026-04-15T03:36:16Z",
                     "owner": "SDWebImage",
                     "repo": "SDWebImage",
-                    "stars": 25633
+                    "stars": 25634
                   }
                 },
                 {
@@ -1793,10 +1903,10 @@
                     "archived": false,
                     "id": 32012751,
                     "language": "Swift",
-                    "last_commit": "2026-08-23T19:03:32Z",
+                    "last_commit": "2026-08-24T00:30:14Z",
                     "owner": "kean",
                     "repo": "Nuke",
-                    "stars": 8651
+                    "stars": 8653
                   }
                 },
                 {
@@ -1826,7 +1936,7 @@
                     "last_commit": "2020-11-15T01:09:13Z",
                     "owner": "Haneke",
                     "repo": "HanekeSwift",
-                    "stars": 5156
+                    "stars": 5155
                   }
                 },
                 {
@@ -1841,7 +1951,7 @@
                     "last_commit": "2026-07-28T15:53:56Z",
                     "owner": "TimOliver",
                     "repo": "TOCropViewController",
-                    "stars": 4943
+                    "stars": 4942
                   }
                 },
                 {
@@ -1856,7 +1966,7 @@
                     "last_commit": "2026-08-21T22:01:51Z",
                     "owner": "pinterest",
                     "repo": "PINRemoteImage",
-                    "stars": 4024
+                    "stars": 4025
                   }
                 },
                 {
@@ -2249,7 +2359,7 @@
                 "last_commit": "2026-06-23T18:02:32Z",
                 "owner": "robbiehanson",
                 "repo": "CocoaAsyncSocket",
-                "stars": 12452
+                "stars": 12451
               }
             },
             {
@@ -2279,7 +2389,7 @@
                 "last_commit": "2024-10-03T11:54:56Z",
                 "owner": "ashleymills",
                 "repo": "Reachability.swift",
-                "stars": 7972
+                "stars": 7971
               }
             },
             {
@@ -2466,7 +2576,7 @@
                 "last_commit": "2022-09-04T18:39:25Z",
                 "owner": "KnuffApp",
                 "repo": "Knuff",
-                "stars": 5221
+                "stars": 5220
               }
             },
             {
@@ -2555,7 +2665,7 @@
                 "last_commit": "2017-10-31T17:34:17Z",
                 "owner": "nickoneill",
                 "repo": "PermissionScope",
-                "stars": 4789
+                "stars": 4788
               }
             },
             {
@@ -2637,7 +2747,7 @@
                 "last_commit": "2024-07-16T06:32:03Z",
                 "owner": "ibireme",
                 "repo": "YYText",
-                "stars": 8871
+                "stars": 8870
               }
             },
             {
@@ -2652,7 +2762,7 @@
                 "last_commit": "2026-07-15T08:18:40Z",
                 "owner": "Cocoanetics",
                 "repo": "DTCoreText",
-                "stars": 6394
+                "stars": 6393
               }
             },
             {
@@ -2854,7 +2964,7 @@
                 "last_commit": "2024-06-05T16:14:17Z",
                 "owner": "ephread",
                 "repo": "Instructions",
-                "stars": 5202
+                "stars": 5201
               }
             },
             {
@@ -2899,7 +3009,7 @@
                 "last_commit": "2021-02-07T14:50:57Z",
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
-                "stars": 2747
+                "stars": 2746
               }
             },
             {
@@ -2996,7 +3106,7 @@
                 "last_commit": "2025-11-25T18:09:41Z",
                 "owner": "button",
                 "repo": "DeepLinkKit",
-                "stars": 3453
+                "stars": 3452
               }
             },
             {
@@ -3048,7 +3158,7 @@
                 "last_commit": "2026-05-25T14:09:39Z",
                 "owner": "hackiftekhar",
                 "repo": "IQKeyboardManager",
-                "stars": 16630
+                "stars": 16629
               }
             },
             {
@@ -3078,7 +3188,7 @@
                 "last_commit": "2021-05-03T07:11:02Z",
                 "owner": "vicc",
                 "repo": "chameleon",
-                "stars": 12317
+                "stars": 12316
               }
             },
             {
@@ -3183,7 +3293,7 @@
                 "last_commit": "2024-07-23T19:01:40Z",
                 "owner": "patchthecode",
                 "repo": "JTAppleCalendar",
-                "stars": 7655
+                "stars": 7653
               }
             },
             {
@@ -3228,7 +3338,7 @@
                 "last_commit": "2023-03-22T00:38:19Z",
                 "owner": "MortimerGoro",
                 "repo": "MGSwipeTableCell",
-                "stars": 6916
+                "stars": 6915
               }
             },
             {
@@ -3258,7 +3368,7 @@
                 "last_commit": "2024-01-05T10:18:13Z",
                 "owner": "vikmeup",
                 "repo": "SCLAlertView-Swift",
-                "stars": 5311
+                "stars": 5310
               }
             },
             {
@@ -3678,7 +3788,7 @@
                 "last_commit": "2020-03-16T18:07:03Z",
                 "owner": "codestergit",
                 "repo": "SweetAlert-iOS",
-                "stars": 2031
+                "stars": 2030
               }
             },
             {
@@ -3948,7 +4058,7 @@
                 "last_commit": "2021-01-20T11:55:02Z",
                 "owner": "seedante",
                 "repo": "CardAnimation",
-                "stars": 1165
+                "stars": 1164
               }
             },
             {
@@ -4383,7 +4493,7 @@
                 "last_commit": "2023-05-12T09:21:09Z",
                 "owner": "thellimist",
                 "repo": "EZAlertController",
-                "stars": 365
+                "stars": 364
               }
             },
             {
@@ -4920,6 +5030,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Socket Rocket：一个一致的 Objective-C WebSocket 客户端库。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3301046,
+                "language": "Objective-C",
+                "last_commit": "2025-12-04T01:29:19Z",
+                "owner": "facebookincubator",
+                "repo": "SocketRocket",
+                "stars": 9609
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebSocket"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★官网",
               "description": null,
               "children": [],
@@ -4930,7 +5062,7 @@
                 "last_commit": "2026-08-21T20:30:20Z",
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19706
+                "stars": 19707
               }
             },
             {
@@ -4990,7 +5122,7 @@
                 "last_commit": "2020-10-20T09:22:10Z",
                 "owner": "krzysztofzablocki",
                 "repo": "Bootstrap",
-                "stars": 2038
+                "stars": 2037
               }
             },
             {
@@ -5129,6 +5261,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Venmo：在你的应用中支持和接受通过 Venmo 的支付。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 16361542,
+                "language": "Objective-C",
+                "last_commit": "2019-08-23T05:15:17Z",
+                "owner": "venmo",
+                "repo": "venmo-ios-sdk",
+                "stars": 177
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "支付"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "DateTools：简便的 Objective-C 日期和时间工具。官网",
               "description": null,
               "children": [],
@@ -5139,7 +5293,7 @@
                 "last_commit": "2024-08-21T17:55:53Z",
                 "owner": "MatthewYork",
                 "repo": "DateTools",
-                "stars": 7179
+                "stars": 7178
               }
             },
             {
@@ -5184,7 +5338,7 @@
                 "last_commit": "2024-04-05T13:43:05Z",
                 "owner": "Esqarrouth",
                 "repo": "EZSwiftExtensions",
-                "stars": 2974
+                "stars": 2973
               }
             },
             {
@@ -5547,7 +5701,7 @@
             "last_commit": "2026-08-22T17:45:35Z",
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13099
+            "stars": 13101
           }
         },
         {
@@ -5562,7 +5716,7 @@
             "last_commit": "2020-10-20T09:22:10Z",
             "owner": "krzysztofzablocki",
             "repo": "Bootstrap",
-            "stars": 2038
+            "stars": 2037
           }
         },
         {
@@ -5643,7 +5797,7 @@
             "last_commit": "2025-09-10T15:36:04Z",
             "owner": "Carthage",
             "repo": "Carthage",
-            "stars": 15167
+            "stars": 15166
           }
         },
         {
@@ -5711,7 +5865,7 @@
                 "last_commit": "2024-05-09T20:34:35Z",
                 "owner": "AliSoftware",
                 "repo": "OHHTTPStubs",
-                "stars": 5072
+                "stars": 5071
               }
             },
             {
@@ -5927,6 +6081,28 @@
           "description": null,
           "node_type": "group",
           "title": "其他测试"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "boarding：即时为 TestFlight beta 测试者创建简单的注册页面。官网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39299874,
+                "language": "Ruby",
+                "last_commit": "2024-03-18T18:04:27Z",
+                "owner": "fastlane",
+                "repo": "boarding",
+                "stars": 881
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beta 测试版本发布"
         }
       ],
       "title": "测试"
@@ -5976,7 +6152,7 @@
             "last_commit": "2026-04-16T08:20:58Z",
             "owner": "SwiftGen",
             "repo": "SwiftGen",
-            "stars": 9549
+            "stars": 9547
           }
         },
         {
@@ -5991,7 +6167,7 @@
             "last_commit": "2026-08-13T16:38:01Z",
             "owner": "thoughtbot",
             "repo": "laptop",
-            "stars": 8558
+            "stars": 8557
           }
         },
         {
@@ -6006,7 +6182,7 @@
             "last_commit": "2023-09-06T11:53:01Z",
             "owner": "marmelroy",
             "repo": "Localize-Swift",
-            "stars": 3123
+            "stars": 3122
           }
         },
         {
@@ -6087,7 +6263,7 @@
             "last_commit": "2022-08-04T00:53:23Z",
             "owner": "johnno1962",
             "repo": "injectionforxcode",
-            "stars": 6538
+            "stars": 6537
           }
         },
         {
@@ -6168,7 +6344,7 @@
             "last_commit": "2026-08-18T00:55:28Z",
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42015
+            "stars": 42019
           }
         },
         {
@@ -6236,7 +6412,7 @@
                 "last_commit": "2026-07-15T18:56:45Z",
                 "owner": "ResearchKit",
                 "repo": "ResearchKit",
-                "stars": 5746
+                "stars": 5745
               }
             },
             {
@@ -6248,7 +6424,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-22T22:10:16Z",
+                "last_commit": "2026-08-24T02:34:26Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2563
@@ -6368,7 +6544,7 @@
                 "archived": false,
                 "id": 33955225,
                 "language": "Swift",
-                "last_commit": "2026-08-21T15:28:17Z",
+                "last_commit": "2026-08-24T12:22:37Z",
                 "owner": "box",
                 "repo": "box-ios-sdk",
                 "stars": 129
@@ -6571,7 +6747,7 @@
                 "last_commit": "2021-05-03T07:11:02Z",
                 "owner": "vicc",
                 "repo": "chameleon",
-                "stars": 12317
+                "stars": 12316
               }
             },
             {
@@ -6691,7 +6867,7 @@
                 "last_commit": "2023-11-22T08:30:10Z",
                 "owner": "yeahdongcn",
                 "repo": "UIColor-Hex-Swift",
-                "stars": 1244
+                "stars": 1243
               }
             },
             {
@@ -7170,7 +7346,7 @@
                 "last_commit": "2019-07-18T23:40:39Z",
                 "owner": "venmo",
                 "repo": "synx",
-                "stars": 6043
+                "stars": 6042
               }
             }
           ],
@@ -7211,7 +7387,7 @@
             "last_commit": "2024-04-30T09:39:34Z",
             "owner": "futurice",
             "repo": "ios-good-practices",
-            "stars": 10976
+            "stars": 10975
           }
         },
         {
@@ -7340,10 +7516,10 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-23T13:27:40Z",
+            "last_commit": "2026-08-24T13:10:37Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51820
+            "stars": 51826
           }
         },
         {
@@ -7358,7 +7534,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33619
+            "stars": 33620
           }
         },
         {
@@ -7493,7 +7669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:40:48.733Z",
+    "last_updated": "2026-08-24T13:57:46.958Z",
     "original_repository": "jobbole/awesome-ios-cn",
     "original_repository_id": 45461723,
     "original_repository_sha": "5f2e1897205e26b05eed433f0d5c520c6e0dffff",
