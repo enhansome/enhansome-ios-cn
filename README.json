@@ -144,7 +144,7 @@
                 "last_commit": "2023-07-03T14:28:34Z",
                 "owner": "MengTo",
                 "repo": "Spring",
-                "stars": 14047
+                "stars": 14048
               }
             },
             {
@@ -1807,7 +1807,7 @@
                 "last_commit": "2023-07-27T10:31:03Z",
                 "owner": "mapbox",
                 "repo": "mapbox-gl-native",
-                "stars": 4454
+                "stars": 4453
               }
             },
             {
@@ -1891,7 +1891,7 @@
                     "last_commit": "2024-02-16T22:29:30Z",
                     "owner": "BradLarson",
                     "repo": "GPUImage",
-                    "stars": 20304
+                    "stars": 20305
                   }
                 },
                 {
@@ -1981,7 +1981,7 @@
                     "last_commit": "2026-07-27T00:02:13Z",
                     "owner": "Alamofire",
                     "repo": "AlamofireImage",
-                    "stars": 4024
+                    "stars": 4025
                   }
                 },
                 {
@@ -6344,7 +6344,7 @@
             "last_commit": "2026-08-18T00:55:28Z",
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42023
+            "stars": 42024
           }
         },
         {
@@ -6394,7 +6394,7 @@
                 "archived": false,
                 "id": 738491,
                 "language": "Swift",
-                "last_commit": "2026-08-24T17:31:34Z",
+                "last_commit": "2026-08-24T22:30:29Z",
                 "owner": "facebook",
                 "repo": "facebook-ios-sdk",
                 "stars": 8088
@@ -6424,7 +6424,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-24T21:48:29Z",
+                "last_commit": "2026-08-25T04:49:04Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2563
@@ -7519,7 +7519,7 @@
             "last_commit": "2026-08-24T21:05:47Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51832
+            "stars": 51842
           }
         },
         {
@@ -7534,7 +7534,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33621
+            "stars": 33625
           }
         },
         {
@@ -7669,7 +7669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:48:39.927Z",
+    "last_updated": "2026-08-25T05:50:06.428Z",
     "original_repository": "jobbole/awesome-ios-cn",
     "original_repository_id": 45461723,
     "original_repository_sha": "5f2e1897205e26b05eed433f0d5c520c6e0dffff",
