@@ -211,7 +211,7 @@
                 "open_issues": 164,
                 "owner": "MengTo",
                 "repo": "Spring",
-                "stars": 14058,
+                "stars": 14059,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:54.031Z"
@@ -569,7 +569,7 @@
                 "open_issues": 1,
                 "owner": "PhilJay",
                 "repo": "MPAndroidChart",
-                "stars": 38184,
+                "stars": 38183,
                 "topics": [
                   "android",
                   "chart",
@@ -688,7 +688,7 @@
             {
               "node_type": "item",
               "title": "chartee：一个为移动平台设计的图表库。官网",
-              "description": null,
+              "description": "zhiyu/chartee",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -874,7 +874,7 @@
             {
               "node_type": "item",
               "title": "Mogenerator：自动生成 CoreData 代码。官网",
-              "description": null,
+              "description": "rentzsch/mogenerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -916,7 +916,7 @@
             {
               "node_type": "item",
               "title": "QueryKit：一个简洁的类型安全的 CoreData 查询语言 ★官网",
-              "description": null,
+              "description": "QueryKit/QueryKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1000,7 +1000,7 @@
             {
               "node_type": "item",
               "title": "ReactiveCoreData：ReactiveCoreData (RCD) 是一个将 CoreData 带入 ReactiveCocoa 世界的尝试。官网",
-              "description": null,
+              "description": "apparentsoft/ReactiveCoreData",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1021,7 +1021,7 @@
             {
               "node_type": "item",
               "title": "ios-queryable：ios-queryable 是一个基于 CoreData 的 IQueryable/IEnumerable 实现。官网",
-              "description": null,
+              "description": "martydill/ios-queryable",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1068,7 +1068,7 @@
             {
               "node_type": "item",
               "title": "SLRESTfulCoreData：根据 Objc 命名习惯，在运行时自动生成访问器，URL替换和智能属性映射。官网",
-              "description": null,
+              "description": "OliverLetterer/SLRESTfulCoreData",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1096,7 +1096,7 @@
             {
               "node_type": "item",
               "title": "Realm：CoreData 和 SQLite 的替代品。简洁、现代、快速。官网",
-              "description": null,
+              "description": "realm/realm-swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,7 +1127,7 @@
             {
               "node_type": "item",
               "title": "FMDB：SQLite 的 Cocoa/Objective-C 封装。官网",
-              "description": null,
+              "description": "ccgus/fmdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1148,7 +1148,7 @@
             {
               "node_type": "item",
               "title": "YapDatabase：YapDatabase 是一个 iOS 和 Mac 上可扩展的数据库。官网",
-              "description": null,
+              "description": "yapstudios/YapDatabase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,7 +1169,7 @@
             {
               "node_type": "item",
               "title": "FCModel：为那些喜欢直接使用 SQL 进行数据库操作的人提供的 CoreData 的替代品。官网",
-              "description": null,
+              "description": "marcoarment/FCModel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1190,7 +1190,7 @@
             {
               "node_type": "item",
               "title": "Zephyr：轻松地通过 iCloud 同步 NSUserDefaults ★官网",
-              "description": null,
+              "description": "ArtSabintsev/Zephyr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1224,7 +1224,7 @@
             {
               "node_type": "item",
               "title": "Prephirences：Prephirences 是一个提供了有用的协议和便捷的方法来管理应用的偏好设置，配置和应用状态的 Swift 库。★官网",
-              "description": null,
+              "description": "phimage/Prephirences",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1255,7 +1255,7 @@
             {
               "node_type": "item",
               "title": "Akaibu-NSUserDefaults：Swift 键/值存储，只需要一行代码就可以对 NSObject 对象进行归档。类的属性会自动映射和归档。官网",
-              "description": null,
+              "description": "roytang121/Akaibu-NSUserDefaults",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1283,7 +1283,7 @@
             {
               "node_type": "item",
               "title": "AESCrypt-ObjC：一个简单固执的 AES 加密／解密类，然而它就是可以很好的工作。官网",
-              "description": null,
+              "description": "Gurpartap/AESCrypt-ObjC",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1368,7 +1368,7 @@
                 {
                   "node_type": "item",
                   "title": "PeerKit：一个用于事件驱动，零配置的 Multipeer 连接应用程序的开源 Swift 框架。★官网",
-                  "description": null,
+                  "description": "jpsim/PeerKit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1389,7 +1389,7 @@
                 {
                   "node_type": "item",
                   "title": "Discovery：这是个很简单的库，用来从附近的设备上发现和获取数据（即便 peer app 在后台工作）。官网",
-                  "description": null,
+                  "description": "omergul/Discovery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1431,7 +1431,7 @@
                 {
                   "node_type": "item",
                   "title": "simple-share：一个基于蓝牙 LE 共享的框架，易于实现附近设备的连接。官网",
-                  "description": null,
+                  "description": "lauraskelton/simple-share",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1459,7 +1459,7 @@
                 {
                   "node_type": "item",
                   "title": "LocationManager：实现了一次性或者持续请求当前位置的功能，提供了基于 block 的异步 API。官网",
-                  "description": null,
+                  "description": "intuit/LocationManager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1529,7 +1529,7 @@
                 {
                   "node_type": "item",
                   "title": "BeaconEmitter：把你的 Mac 变成一个 iBeacon。官网",
-                  "description": null,
+                  "description": "lgaches/BeaconEmitter",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1597,7 +1597,7 @@
                 {
                   "node_type": "item",
                   "title": "OWUProximityManager：iBeacons + CoreBluetooth.官网",
-                  "description": null,
+                  "description": "ohayon/OWUProximityManager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1618,7 +1618,7 @@
                 {
                   "node_type": "item",
                   "title": "Proxitee：允许开发者利用 iBeacons 和地理围栏创建近场感知的应用。官网",
-                  "description": null,
+                  "description": "Proxitee/iOS-SDK",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1651,7 +1651,7 @@
             {
               "node_type": "item",
               "title": "MBProgressHUD：用于显示一个半透明的 HUD。当任务在后台线程结束时可以在上边显示一个指示器和／或者标签。官网",
-              "description": null,
+              "description": "jdg/MBProgressHUD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1672,7 +1672,7 @@
             {
               "node_type": "item",
               "title": "M13ProgressSuite：一个包含了很多 iOS 上用于显示进度信息工具的套装。官网",
-              "description": null,
+              "description": "Marxon13/M13ProgressSuite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1693,7 +1693,7 @@
             {
               "node_type": "item",
               "title": "PKHUD：用 Swift 重新实现了 Apple 的原生 HUD，支持 iOS 8 以上★官网",
-              "description": null,
+              "description": "pkluz/PKHUD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1714,7 +1714,7 @@
             {
               "node_type": "item",
               "title": "ProgressHUD：ProgressHUD 是一个轻量易用的 HUD。官网",
-              "description": null,
+              "description": "relatedcode/ProgressHUD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "CozyLoadingActivity：轻量的载入动作指示 HUD ★官网",
-              "description": null,
+              "description": "Esqarrouth/EZLoadingActivity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1775,7 +1775,7 @@
             {
               "node_type": "item",
               "title": "JHProgressHUD：一个简单轻量的 Swift 框架，用于在 iOS 应用中显示★官网",
-              "description": null,
+              "description": "harikrishnant1991/JHProgressHUD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1796,7 +1796,7 @@
             {
               "node_type": "item",
               "title": "SVProgressHUD：一个为你的 iOS 应用制作的简洁，轻量级的进度指示 HUD。官网",
-              "description": null,
+              "description": "TransitApp/SVProgressHUD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "PromiseKit：iOS 和 OS X 上的 Promises 实现。官网",
-              "description": null,
+              "description": "mxcl/PromiseKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1849,7 +1849,7 @@
             {
               "node_type": "item",
               "title": "Bolts：Bolts 是一个试图使构建移动应用更简单的一个底层库集合。包括了任务（promises）和应用关联（deep links）。官网",
-              "description": null,
+              "description": "BoltsFramework/Bolts-ObjC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1870,7 +1870,7 @@
             {
               "node_type": "item",
               "title": "SwiftTask：Swift 实现的 Promise + progress + pause + cancel + retry。 ★官网",
-              "description": null,
+              "description": "ReactKit/SwiftTask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1891,7 +1891,7 @@
             {
               "node_type": "item",
               "title": "SwiftEventBus：一个针对 iOS 8 优化的发布／订阅事件总线。★官网",
-              "description": null,
+              "description": "cesarferreira/SwiftEventBus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1919,7 +1919,7 @@
             {
               "node_type": "item",
               "title": "Caravel：用于 UIWebView 和 JS 的 Swift 事件总线。★官网",
-              "description": null,
+              "description": "coshx/caravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1979,7 +1979,7 @@
             {
               "node_type": "item",
               "title": "SwiftyJSON：使用 Swift 处理 JSON 数据的好方法。★官网",
-              "description": null,
+              "description": "SwiftyJSON/SwiftyJSON",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2011,7 +2011,7 @@
             {
               "node_type": "item",
               "title": "Mantle：面向 Cocoa 和 Cocoa Touch 的模型框架 Model 。官网",
-              "description": null,
+              "description": "Mantle/Mantle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2036,7 +2036,7 @@
             {
               "node_type": "item",
               "title": "ObjectMapper：在模型对象（包括 class 和 struct）和 JSON 之间转换的 Swift 框架。★官网",
-              "description": null,
+              "description": "tristanhimmelman/ObjectMapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2057,7 +2057,7 @@
             {
               "node_type": "item",
               "title": "JSONModel：神奇的基于 JSON 的数据模型化框架。创建了一系列敏捷便利，自动并且智能的模型类。官网",
-              "description": null,
+              "description": "jsonmodel/jsonmodel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2078,7 +2078,7 @@
             {
               "node_type": "item",
               "title": "JSONKit：Objective-C JSON 工具。官网",
-              "description": null,
+              "description": "johnezang/JSONKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2099,7 +2099,7 @@
             {
               "node_type": "item",
               "title": "JSON-Framework：这个框架用 Objective-C 实现了一个严格的 JSON 解释器和生成器。官网",
-              "description": null,
+              "description": "SBJson/SBJson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2127,7 +2127,7 @@
             {
               "node_type": "item",
               "title": "Gloss：一个 Swift 写的 JSON 解析库。★官网",
-              "description": null,
+              "description": "haidalinda/Gloss",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2152,7 +2152,7 @@
             {
               "node_type": "item",
               "title": "KZPropertyMapper：以最少的代码实现数据映射和验证。官网",
-              "description": null,
+              "description": "krzysztofzablocki/PropertyMapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2173,7 +2173,7 @@
             {
               "node_type": "item",
               "title": "JASON：性能优秀操作便捷的 JSON 解析。★官网",
-              "description": null,
+              "description": "delba/JASON",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2194,7 +2194,7 @@
             {
               "node_type": "item",
               "title": "SwiftyJSONAccelerator：使用 SwiftyJSON 或者 ObjectMapper 根据 JSON 生成 Swift 模型。支持 NSCoding 并且提供了使用 JSON 来表示模型的方法。★官网",
-              "description": null,
+              "description": "insanoid/SwiftyJSONAccelerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2224,7 +2224,7 @@
             {
               "node_type": "item",
               "title": "FastEasyMapping：快速地序列化和反序列化 JSON 数据。官网",
-              "description": null,
+              "description": "Yalantis/FastEasyMapping",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2255,7 +2255,7 @@
             {
               "node_type": "item",
               "title": "Groot：实现呃 JSON 字典或者数组和 Core Data Mangement 对象之间的转换。官网",
-              "description": null,
+              "description": "gonzalezreal/Groot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2282,7 +2282,7 @@
             {
               "node_type": "item",
               "title": "Cereal：Swift 对象序列化 ★官网",
-              "description": null,
+              "description": "Weebly/Cereal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2303,7 +2303,7 @@
             {
               "node_type": "item",
               "title": "OCMapper：Objective-C & Swift 通用的快速 JSON 模型转化框架。 ★官网",
-              "description": null,
+              "description": "aryaxt/OCMapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2331,7 +2331,7 @@
             {
               "node_type": "item",
               "title": "SnapKit：一个 iOS 和 OS X 的 Swift Autolayout 领域专用语言（DSL）。★官网",
-              "description": null,
+              "description": "SnapKit/SnapKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2363,7 +2363,7 @@
             {
               "node_type": "item",
               "title": "Masonry：利用简单的，链式的语法发挥出自动布局 NSLayoutConstraints 的强大功能。官网",
-              "description": null,
+              "description": "SnapKit/Masonry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2384,7 +2384,7 @@
             {
               "node_type": "item",
               "title": "PureLayout：终极的 iOS 和 OS X 上的 Autolayout API，极其简单又异常强大。同时适用于 Objective-C 和 Swift。官网",
-              "description": null,
+              "description": "PureLayout/PureLayout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2409,7 +2409,7 @@
             {
               "node_type": "item",
               "title": "Cartography：一个 Swift 编写的声明式 Auto Layout 领域专用语言（DSL）。★官网",
-              "description": null,
+              "description": "robb/Cartography",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2430,7 +2430,7 @@
             {
               "node_type": "item",
               "title": "FLKAutoLayout：让使用代码做约束更加简便的 UIView 类别。官网",
-              "description": null,
+              "description": "floriankugler/FLKAutoLayout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2451,7 +2451,7 @@
             {
               "node_type": "item",
               "title": "Façade：可编程的视图布局，一个 autolayout 的替代品。官网",
-              "description": null,
+              "description": "mamaral/Facade",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2472,7 +2472,7 @@
             {
               "node_type": "item",
               "title": "ios-flexboxkit：一个封装了 Flexbox 布局的简单 UIKit 扩展。官网",
-              "description": null,
+              "description": "alexdrone/flexboxobjc_deprecated",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2493,7 +2493,7 @@
             {
               "node_type": "item",
               "title": "AutoLayoutPlus：给 Auto Layout 加的一点料，由 Swift 驱动。 ★官网",
-              "description": null,
+              "description": "ruipfcosta/AutoLayoutPlus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2521,7 +2521,7 @@
             {
               "node_type": "item",
               "title": "CocoaLumberjack：一个快捷强大灵活的日志框架，可用于 iOS & Mac。官网",
-              "description": null,
+              "description": "CocoaLumberjack/CocoaLumberjack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2559,7 +2559,7 @@
             {
               "node_type": "item",
               "title": "NSLogger：一个高性能的日志工具，它可以显示运行在 OS X、iOS 和 Android 上客户端应用的踪迹。官网",
-              "description": null,
+              "description": "fpillet/NSLogger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2580,7 +2580,7 @@
             {
               "node_type": "item",
               "title": "CleanroomLogger：一个基于 Swift 可配置可扩展的日志 API，简洁、轻量并且高效。★官网",
-              "description": null,
+              "description": "emaloney/CleanroomLogger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2601,7 +2601,7 @@
             {
               "node_type": "item",
               "title": "QorumLogs：为 Xcode 和 Google Docs 设计的 Swift 日志工具。★官网",
-              "description": null,
+              "description": "Esqarrouth/QorumLogs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2622,7 +2622,7 @@
             {
               "node_type": "item",
               "title": "Aardvark：一个高性能日志框架，它使得创建可操作的 bug 报告变得非常简单。官网",
-              "description": null,
+              "description": "square/Aardvark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2647,7 +2647,7 @@
             {
               "node_type": "item",
               "title": "BlockTypeDescription：在日志记录 block 的时候显示类型签名。官网",
-              "description": null,
+              "description": "conradev/BlockTypeDescription",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2675,7 +2675,7 @@
             {
               "node_type": "item",
               "title": "Mapbox GL：一个 iOS 上使用 OpenGL 渲染 Mapbox 矢量地图块的框架。官网",
-              "description": null,
+              "description": "mapbox/mapbox-gl-native",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2717,7 +2717,7 @@
             {
               "node_type": "item",
               "title": "Route-me：iOS 开源地图框架官网",
-              "description": null,
+              "description": "route-me/route-me",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2738,7 +2738,7 @@
             {
               "node_type": "item",
               "title": "NAMapKit：允许你在 iPhone 应用使用自定义地图，并尝试模仿 Mapkit 框架的一些行为。官网",
-              "description": null,
+              "description": "neilang/NAMapKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2759,7 +2759,7 @@
             {
               "node_type": "item",
               "title": "CMMapLauncher：用于 iOS 中在各种地图应用中显示方向的便捷框架。官网",
-              "description": null,
+              "description": "citymapper/CMMapLauncher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2789,7 +2789,7 @@
                 {
                   "node_type": "item",
                   "title": "SDWebImage：异步的图像下载器，提供了缓存支持。以 UIImageView 类别的方式提供。官网",
-                  "description": null,
+                  "description": "SDWebImage/SDWebImage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2827,7 +2827,7 @@
                 {
                   "node_type": "item",
                   "title": "GPU Image：一个基于 GPU 的 iOS 开源的图像和视频处理框架。官网",
-                  "description": null,
+                  "description": "BradLarson/GPUImage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2848,7 +2848,7 @@
                 {
                   "node_type": "item",
                   "title": "Nuke：高级的图片管理框架。★官网",
-                  "description": null,
+                  "description": "kean/Nuke",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2876,7 +2876,7 @@
                 {
                   "node_type": "item",
                   "title": "FastImageCache：在滚动时快速显示图片的 iOS 框架。官网",
-                  "description": null,
+                  "description": "path/FastImageCache",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2897,7 +2897,7 @@
                 {
                   "node_type": "item",
                   "title": "HanekeSwift：一个 Swift 编写的 iOS 平台的轻量级通用缓存框架，还有对图像的更多支持。★官网",
-                  "description": null,
+                  "description": "Haneke/HanekeSwift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2918,7 +2918,7 @@
                 {
                   "node_type": "item",
                   "title": "TOCropViewController：一个可以允许用户修改 UIImage 对象的视图控制器。官网",
-                  "description": null,
+                  "description": "TimOliver/TOCropViewController",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2953,7 +2953,7 @@
                 {
                   "node_type": "item",
                   "title": "PINRemoteImage：一个线程安全、高性能、特性丰富的图像获取器。官网",
-                  "description": null,
+                  "description": "pinterest/PINRemoteImage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2981,7 +2981,7 @@
                 {
                   "node_type": "item",
                   "title": "AlamofireImage：一个为 Alamofire 制作的图像组件库。★官网",
-                  "description": null,
+                  "description": "Alamofire/AlamofireImage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3002,7 +3002,7 @@
                 {
                   "node_type": "item",
                   "title": "YYWebImage：异步图像加载框架（支持 WebP，APNG，GIF 格式）。官网",
-                  "description": null,
+                  "description": "ibireme/YYWebImage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3023,7 +3023,7 @@
                 {
                   "node_type": "item",
                   "title": "FlagKit：供 app 和 web 页面上使用的漂亮旗标。★官网",
-                  "description": null,
+                  "description": "madebybowtie/FlagKit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3051,7 +3051,7 @@
                 {
                   "node_type": "item",
                   "title": "SCRecorder：类似 Vine 的点击拍摄，动画过滤器，慢镜头，片段编辑相机引擎。官网",
-                  "description": null,
+                  "description": "rFlex/SCRecorder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3072,7 +3072,7 @@
                 {
                   "node_type": "item",
                   "title": "NYTPhotoViewer：抽屉菜单和照片查看器。官网",
-                  "description": null,
+                  "description": "nytimes/NYTPhotoViewer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3093,7 +3093,7 @@
                 {
                   "node_type": "item",
                   "title": "IDMPhotoBrowser：图片浏览器／查看器。官网",
-                  "description": null,
+                  "description": "thiagoperes/IDMPhotoBrowser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3114,7 +3114,7 @@
                 {
                   "node_type": "item",
                   "title": "YLGIFImage：异步的 GIF 图像解码和图片浏览器。支持 GIF 图动画，但只消耗少量的内存。官网",
-                  "description": null,
+                  "description": "liyong03/YLGIFImage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3135,7 +3135,7 @@
                 {
                   "node_type": "item",
                   "title": "Concorde：下载和解码连续的 JPEG 图像。官网",
-                  "description": null,
+                  "description": "contentful-labs/Concorde",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3156,7 +3156,7 @@
                 {
                   "node_type": "item",
                   "title": "DFImageManager：从多种数据源获取图像的现代框架。无需配置，并具有高度的可定制性和扩展性。使用了 NSURLSession。官网",
-                  "description": null,
+                  "description": "kean/DFImageManager",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3177,7 +3177,7 @@
                 {
                   "node_type": "item",
                   "title": "AsyncImageView：UIImageView 的异步图像加载和显示扩展，不会阻塞 UI 线程。官网",
-                  "description": null,
+                  "description": "nicklockwood/AsyncImageView",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3198,7 +3198,7 @@
                 {
                   "node_type": "item",
                   "title": "SABlurImageView：可以轻松地为图片添加模糊动画效果。★官网",
-                  "description": null,
+                  "description": "marty-suzuki/SABlurImageView",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3228,7 +3228,7 @@
                 {
                   "node_type": "item",
                   "title": "BKAsciiImage：将图片渲染为 ASCII art 的库。官网",
-                  "description": null,
+                  "description": "bkoc/BKAsciiImage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3256,7 +3256,7 @@
                 {
                   "node_type": "item",
                   "title": "UIImage DSP：iOS UIImage 处理功能，它使用 vDSP/Accelerate 框架来提高速度。官网",
-                  "description": null,
+                  "description": "gdawg/uiimage-dsp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3277,7 +3277,7 @@
                 {
                   "node_type": "item",
                   "title": "MapleBacon：一个 Swift iOS 图像下载和缓存库 ★官网",
-                  "description": null,
+                  "description": "JanGorman/MapleBacon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3309,7 +3309,7 @@
                 {
                   "node_type": "item",
                   "title": "YXTMotionView：一个自定义的图片视图，它实现了依靠设备运动来滚动图片。官网",
-                  "description": null,
+                  "description": "hanton/YXTMotionView",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3330,7 +3330,7 @@
                 {
                   "node_type": "item",
                   "title": "JTSImageViewController：iOS 交互式图片浏览器。官网",
-                  "description": null,
+                  "description": "jaredsinclair/JTSImageViewController",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3358,7 +3358,7 @@
                 {
                   "node_type": "item",
                   "title": "MobilePlayer：一个强大完善且完全可定制的 iOS 媒体播放器。官网",
-                  "description": null,
+                  "description": "sahin/mobileplayer-ios",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3389,7 +3389,7 @@
                 {
                   "node_type": "item",
                   "title": "VIMVideoPlayer：一个对 AVPlayer 和 AVPlayerLayer 类的简单封装。官网",
-                  "description": null,
+                  "description": "vimeo/VIMVideoPlayer",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3417,7 +3417,7 @@
                 {
                   "node_type": "item",
                   "title": "Reader：一个 iOS PDF 阅读器的核心。官网",
-                  "description": null,
+                  "description": "vfr/Reader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3438,7 +3438,7 @@
                 {
                   "node_type": "item",
                   "title": "UIView 2 PDF：使用 UIViews （或配合着 XIB）的 PDF 生成器。官网",
-                  "description": null,
+                  "description": "RobertAPhillips/UIView_2_PDF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3471,7 +3471,7 @@
             {
               "node_type": "item",
               "title": "XMPPFramework：一个 iOS 和 Mac 上的 XMPP 协议通讯框架。官网",
-              "description": null,
+              "description": "robbiehanson/XMPPFramework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3499,7 +3499,7 @@
             {
               "node_type": "item",
               "title": "Alamofire：Alamofire 是一个 Swift 写的 HTTP 网络库，由 AFNetworking 的作者编写。★官网",
-              "description": null,
+              "description": "Alamofire/Alamofire",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3536,7 +3536,7 @@
             {
               "node_type": "item",
               "title": "AFNetworking：一个得心应手的 iOS 和 OSX 上的网络请求框架。官网",
-              "description": null,
+              "description": "AFNetworking/AFNetworking",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3557,7 +3557,7 @@
             {
               "node_type": "item",
               "title": "CocoaAsyncSocket：用于 Mac 和 iOS 的异步 socket 网络库。官网",
-              "description": null,
+              "description": "robbiehanson/CocoaAsyncSocket",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3578,7 +3578,7 @@
             {
               "node_type": "item",
               "title": "RestKit：RestKit 是一个 iOS Objective-C 框架，是为了让和 RESTful web 服务交互变的简单、快捷、有趣。官网",
-              "description": null,
+              "description": "RestKit/RestKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3599,7 +3599,7 @@
             {
               "node_type": "item",
               "title": "Reachability.swift：用 Swift 和闭包重新实现了苹果的 Reachablility 框架。★官网",
-              "description": null,
+              "description": "ashleymills/Reachability.swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3620,7 +3620,7 @@
             {
               "node_type": "item",
               "title": "ASIHTTPRequest：Objective-C 编写的 HTTP 网络请求库。它是对 CFNetwork 易用的封装。支持 Mac OS X 和 iPhone。官网",
-              "description": null,
+              "description": "pokeb/asi-http-request",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3641,7 +3641,7 @@
             {
               "node_type": "item",
               "title": "NetworkEye：一个 iOS 网络调试库，可以显示 App 中的 HTTP 请求和请求的相关信息。官网",
-              "description": null,
+              "description": "coderyi/NetworkEye",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3673,7 +3673,7 @@
             {
               "node_type": "item",
               "title": "Overcoat：小巧但是很强大的库，让创建一个 REST 客户端简便和有趣。官网",
-              "description": null,
+              "description": "Overcoat/Overcoat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3694,7 +3694,7 @@
             {
               "node_type": "item",
               "title": "NSRails：将客户端的对象／类映射到远程 REST API 的对象／ORM。官网",
-              "description": null,
+              "description": "dingbat/nsrails",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3715,7 +3715,7 @@
             {
               "node_type": "item",
               "title": "Transporter：让上传下载更便捷的小代码库。★官网",
-              "description": null,
+              "description": "nghialv/Transporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3736,7 +3736,7 @@
             {
               "node_type": "item",
               "title": "FSNetworking：稳固的 iOS 网络库。官网",
-              "description": null,
+              "description": "foursquare/FSNetworking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3799,7 +3799,7 @@
             {
               "node_type": "item",
               "title": "ROADFramework：面向属性的 web 服务交互方式。框架有内建的 json 和 xml 请求响应序列化方法，十分方便扩展。官网",
-              "description": null,
+              "description": "epam/road-ios-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3820,7 +3820,7 @@
             {
               "node_type": "item",
               "title": "CDZPinger：使用方便的 ICMP Ping 框架。官网",
-              "description": null,
+              "description": "cdzombak/CDZPinger",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3841,7 +3841,7 @@
             {
               "node_type": "item",
               "title": "NKMultipeer：一个建立在多重链接上的可测试的抽象。★官网",
-              "description": null,
+              "description": "nathankot/NKMultipeer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3869,7 +3869,7 @@
             {
               "node_type": "item",
               "title": "APNS-Pusher：苹果推送通知服务的调试器。官网",
-              "description": null,
+              "description": "KnuffApp/Knuff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3890,7 +3890,7 @@
             {
               "node_type": "item",
               "title": "Orbiter：在 iOS 中注册推送通知。官网",
-              "description": null,
+              "description": "mattt/Orbiter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3911,7 +3911,7 @@
             {
               "node_type": "item",
               "title": "PEM：为推送服务器自动生成 profile。官网",
-              "description": null,
+              "description": "fastlane-old/pem",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3939,7 +3939,7 @@
             {
               "node_type": "item",
               "title": "Dubai：生成和预览 Passbook 的 Pass。官网",
-              "description": null,
+              "description": "nomad-cli/dubai",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3960,7 +3960,7 @@
             {
               "node_type": "item",
               "title": "passbook：为 Passbook 创建 pkpass 文件。官网",
-              "description": null,
+              "description": "frozon/passbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3988,7 +3988,7 @@
             {
               "node_type": "item",
               "title": "PermissionScope：智能的 iOS 授权 UI 和 统一的 API（支持位置、通知、照片、联系人、日历、照片、麦克风、BT、进度指示、HealthKit 和 CloudKit）。★官网",
-              "description": null,
+              "description": "nickoneill/PermissionScope",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4009,7 +4009,7 @@
             {
               "node_type": "item",
               "title": "Proposer：便捷地请求用户权限（支持相机、照片、麦克风、联系人、位置）。★官网",
-              "description": null,
+              "description": "nixzhu/Proposer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4030,7 +4030,7 @@
             {
               "node_type": "item",
               "title": "ISHPermissionKit：为 iOS 提供请求用户权限的统一方法。官网",
-              "description": null,
+              "description": "iosphere/ISHPermissionKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4051,7 +4051,7 @@
             {
               "node_type": "item",
               "title": "VWWPermissionKit：可视化的 iOS 授权管理器。官网",
-              "description": null,
+              "description": "zakkhoyt/VWWPermissionKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4072,7 +4072,7 @@
             {
               "node_type": "item",
               "title": "ICanHas：简化 iOS 用户权限请求（支持位置、推送通知、相机、联系人、日历、照片）。★官网",
-              "description": null,
+              "description": "wircho/ICanHas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4100,7 +4100,7 @@
             {
               "node_type": "item",
               "title": "YYText：iOS 上用于显示和编辑富文本的强大文本框架。官网",
-              "description": null,
+              "description": "ibireme/YYText",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4121,7 +4121,7 @@
             {
               "node_type": "item",
               "title": "DTCoreText：利用 CoreText 使用 HTML 代码的方法。官网",
-              "description": null,
+              "description": "Cocoanetics/DTCoreText",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4142,7 +4142,7 @@
             {
               "node_type": "item",
               "title": "PhoneNumberKit：用于解析，格式化和验证国际电话号码的 Swift 框架，由谷歌的 libphonenumber 库支持。★官网",
-              "description": null,
+              "description": "marmelroy/PhoneNumberKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4171,7 +4171,7 @@
             {
               "node_type": "item",
               "title": "Twitter Text Obj：Twitter 的文本处理库的 Objective-C 实现。官网",
-              "description": null,
+              "description": "twitter/twitter-text",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4202,7 +4202,7 @@
             {
               "node_type": "item",
               "title": "RichEditorView：RichEditorView 是一个简单、模块化的富文本编辑器视图。★官网",
-              "description": null,
+              "description": "cjwirth/RichEditorView",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4223,7 +4223,7 @@
             {
               "node_type": "item",
               "title": "ios-fontawesome：NSString + FontAwesome。官网",
-              "description": null,
+              "description": "alexdrone/ios-fontawesome",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4244,7 +4244,7 @@
             {
               "node_type": "item",
               "title": "MMMarkdown：用于将 Markdown 转换为 HTML 的 Objective-C 静态库。官网",
-              "description": null,
+              "description": "mdiep/MMMarkdown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4269,7 +4269,7 @@
             {
               "node_type": "item",
               "title": "Money：为与钱和现金相关工作的的 Swift 值类型。★官网",
-              "description": null,
+              "description": "danthorpe/Money",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4290,7 +4290,7 @@
             {
               "node_type": "item",
               "title": "NSStringEmojize：一个将 Emoji 表情符号转换为等价的 Unicode 字串的 NSString 类别。官网",
-              "description": null,
+              "description": "diy/NSStringEmojize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4311,7 +4311,7 @@
             {
               "node_type": "item",
               "title": "DTRichTextEditor：一个 iOS 的富文本编辑器。官网",
-              "description": null,
+              "description": "Cocoanetics/DTRichTextEditor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4332,7 +4332,7 @@
             {
               "node_type": "item",
               "title": "Pluralize.swift：强大的 Swift String 单数转换复数扩展。★官网",
-              "description": null,
+              "description": "joshualat/Pluralize.swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4353,7 +4353,7 @@
             {
               "node_type": "item",
               "title": "NBEmojiSearchView：一个支持搜索并且可以集成到文本控件中的 emoji 下拉列表视图。官网",
-              "description": null,
+              "description": "neerajbaid/NBEmojiSearchView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4381,7 +4381,7 @@
             {
               "node_type": "item",
               "title": "Onboard：用一点点代码就可以创建一个漂亮的吸附效果的实践。官网",
-              "description": null,
+              "description": "mamaral/Onboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4402,7 +4402,7 @@
             {
               "node_type": "item",
               "title": "JazzHands：Jazz Hands 是一个简单的 UIKit 关键帧动画框架。动画是可以使用手势、滚动视图、KVO 或者 ReactiveCocoa 来控制的。官网",
-              "description": null,
+              "description": "IFTTT/JazzHands",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4423,7 +4423,7 @@
             {
               "node_type": "item",
               "title": "Instructions：向你的 iOS 项目中添加自定义的操作方式指导的简单办法。★官网",
-              "description": null,
+              "description": "ephread/Instructions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4448,7 +4448,7 @@
             {
               "node_type": "item",
               "title": "EAIntroView：高度可定制非侵入式的欢迎页面解决方案。官网",
-              "description": null,
+              "description": "ealeksandrov/EAIntroView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4475,7 +4475,7 @@
             {
               "node_type": "item",
               "title": "RazzleDazzle：简单的基于关键帧的 iOS 动画框架，由 Swift 编写。最适合用于 App 的滚动介绍页面。★官网",
-              "description": null,
+              "description": "IFTTT/RazzleDazzle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4496,7 +4496,7 @@
             {
               "node_type": "item",
               "title": "BWWalkthrough：一个自定义 iOS App 的功能漫游页面的框架。★官网",
-              "description": null,
+              "description": "ariok/BWWalkthrough",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4517,7 +4517,7 @@
             {
               "node_type": "item",
               "title": "MYBlurIntroductionView：在 MYIntroductionView 上完善的，用于构建可定制的 app 介绍或者教程页面的框架。官网",
-              "description": null,
+              "description": "MatthewYork/MYBlurIntroductionView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4538,7 +4538,7 @@
             {
               "node_type": "item",
               "title": "ICETutorial：一个很好的教程框架，类似 Path 3.X 版本的 App 中的样式。官网",
-              "description": null,
+              "description": "icepat/ICETutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4559,7 +4559,7 @@
             {
               "node_type": "item",
               "title": "GHWalkThrough：一个基于 UICollectionView 的非侵入式介绍页面组件。官网",
-              "description": null,
+              "description": "GnosisHub/GHWalkThrough",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4580,7 +4580,7 @@
             {
               "node_type": "item",
               "title": "SwiftyWalkthrough：创建一个体验绝佳的功能漫游的最简单方法，Swift 编写。★官网",
-              "description": null,
+              "description": "ruipfcosta/SwiftyWalkthrough",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4608,7 +4608,7 @@
             {
               "node_type": "item",
               "title": "JLRoutes：使用了 block API 的 iOS URL 路由框架。官网",
-              "description": null,
+              "description": "joeldev/JLRoutes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4641,7 +4641,7 @@
             {
               "node_type": "item",
               "title": "DeepLinkKit：杰出的路由匹配框架，使用基于 block API 处理你的深链接。官网",
-              "description": null,
+              "description": "button/DeepLinkKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4662,7 +4662,7 @@
             {
               "node_type": "item",
               "title": "IntentKit：一个便捷的方法来在 iOS app 中处理第三方 URL schemes。官网",
-              "description": null,
+              "description": "intentkit/IntentKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4683,7 +4683,7 @@
             {
               "node_type": "item",
               "title": "WAAppRouting：iOS 的路由实现。同时处理了 URL 识别和利用控制器显示解析后的参数。全部这些只要一行代码就可以搞定，控制器堆栈还会被自动保留！官网",
-              "description": null,
+              "description": "Wasappli/WAAppRouting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4711,7 +4711,7 @@
             {
               "node_type": "item",
               "title": "IQKeyboardManager：防止键盘滑出来遮挡住 UITextField/UITextView 的框架，非侵入，无需代码。官网",
-              "description": null,
+              "description": "hackiftekhar/IQKeyboardManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4724,7 +4724,7 @@
                 "open_issues": 9,
                 "owner": "hackiftekhar",
                 "repo": "IQKeyboardManager",
-                "stars": 16625,
+                "stars": 16624,
                 "topics": [
                   "iqkeyboardmanager",
                   "keyboard",
@@ -4738,7 +4738,7 @@
             {
               "node_type": "item",
               "title": "AsyncDisplayKit：AsyncDisplayKit 是一个 iOS 框架，它能够使一个很复杂的用户界面保持平滑和反应灵敏。官网",
-              "description": null,
+              "description": "facebookarchive/AsyncDisplayKit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4759,7 +4759,7 @@
             {
               "node_type": "item",
               "title": "Chameleon：一个 iOS 性能强大的轻量级扁平化颜色框架，可以用于 Objective-C 和 Swift。★官网",
-              "description": null,
+              "description": "vicc/chameleon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4780,7 +4780,7 @@
             {
               "node_type": "item",
               "title": "iCarousel：iOS 和 Mac OS 上简单的，高度可定制化的数据驱动 3D 跑马灯。官网",
-              "description": null,
+              "description": "nicklockwood/iCarousel",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4801,7 +4801,7 @@
             {
               "node_type": "item",
               "title": "Eureka：使用纯 Swift 构建优雅的 iOS 表单。★官网",
-              "description": null,
+              "description": "xmartlabs/Eureka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4834,7 +4834,7 @@
             {
               "node_type": "item",
               "title": "JSQMessagesViewController：一个优雅的 iOS 聊天消息 UI 库。官网",
-              "description": null,
+              "description": "jessesquires/JSQMessagesViewController",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4863,7 +4863,7 @@
             {
               "node_type": "item",
               "title": "NVActivityIndicatorView：很好的加载动画集合。★官网",
-              "description": null,
+              "description": "ninjaprox/NVActivityIndicatorView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4899,7 +4899,7 @@
             {
               "node_type": "item",
               "title": "SlackTextViewController：一个非侵入式的 UIViewcontroller 子类，提供了一个可以随文字长度变化的大小的文本框和一些其他有用的消息特性。官网",
-              "description": null,
+              "description": "slackhq/SlackTextViewController",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4920,7 +4920,7 @@
             {
               "node_type": "item",
               "title": "FlatUIKit：适用于 iOS 的扁平化 UI 组件集合。官网",
-              "description": null,
+              "description": "Grouper/FlatUIKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4941,7 +4941,7 @@
             {
               "node_type": "item",
               "title": "JTAppleCalendar: 最好的iOS版雨燕日历库 ★官网",
-              "description": null,
+              "description": "patchthecode/JTAppleCalendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4970,7 +4970,7 @@
             {
               "node_type": "item",
               "title": "JVFloatLabeledTextField：附有浮动标签的 UITextField 子类。官网",
-              "description": null,
+              "description": "jverdi/JVFloatLabeledTextField",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4999,7 +4999,7 @@
             {
               "node_type": "item",
               "title": "RESideMenu：受 Dribble 上的设计启发而制作的 iOS 7/8 样式的视差侧滑菜单。官网",
-              "description": null,
+              "description": "romaonthego/RESideMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5020,7 +5020,7 @@
             {
               "node_type": "item",
               "title": "MGSwipeTableCell：可以显示滑动按钮的 UITableViewCell 的子类，还支持多种过渡动画。官网",
-              "description": null,
+              "description": "MortimerGoro/MGSwipeTableCell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5041,7 +5041,7 @@
             {
               "node_type": "item",
               "title": "XLForm：XLForm 是最灵活强大的 iOS 库，用来创建动态的 tableview 表单，完全适用于 Swift 和 Obj-C。官网",
-              "description": null,
+              "description": "xmartlabs/XLForm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5068,7 +5068,7 @@
             {
               "node_type": "item",
               "title": "SCLAlertView-Swift：Swift 实现的一个漂亮的动画 Alert View。★官网",
-              "description": null,
+              "description": "vikmeup/SCLAlertView-Swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5089,7 +5089,7 @@
             {
               "node_type": "item",
               "title": "TSMessages：在屏幕上方显示通知（比如成功、错误、警告或者消息）视图。官网",
-              "description": null,
+              "description": "KrauseFx/TSMessages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5145,7 +5145,7 @@
             {
               "node_type": "item",
               "title": "ActiveLabel.swift：非侵入的 UILabel 替代品，支持 Hashtags (#), Mentions (@) 和 URL (http:// )。 ★官网",
-              "description": null,
+              "description": "optonaut/ActiveLabel.swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5171,7 +5171,7 @@
             {
               "node_type": "item",
               "title": "SWRevealViewController：受到 FaceBook 和 Wunderlist 应用启发的 UIViewController 子类，用于显示侧滑的视图控制器。官网",
-              "description": null,
+              "description": "John-Lluch/SWRevealViewController",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5192,7 +5192,7 @@
             {
               "node_type": "item",
               "title": "JDStatusBarNotification：显示在顶部状态栏的通知，使用简单，可以自定义。官网",
-              "description": null,
+              "description": "calimarkus/JDStatusBarNotification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5226,7 +5226,7 @@
             {
               "node_type": "item",
               "title": "tapkulibrary：tap + haiku = tapku, 一个精心设计的 iOS 开源框架。官网",
-              "description": null,
+              "description": "devinross/tapkulibrary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5247,7 +5247,7 @@
             {
               "node_type": "item",
               "title": "LiquidFloatingActionButton：流体状态的 Material Design 的浮动按钮。官网",
-              "description": null,
+              "description": "yoavlt/LiquidFloatingActionButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5268,7 +5268,7 @@
             {
               "node_type": "item",
               "title": "DGElasticPullToRefresh：iOS 弹性下拉刷新控件，Swift 实现。★官网",
-              "description": null,
+              "description": "gontovnik/DGElasticPullToRefresh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5289,7 +5289,7 @@
             {
               "node_type": "item",
               "title": "TLYShyNavBar：不像那些 UINavigationBar 那么傲慢。这个 Bar 很谦虚！可以很容易地创建自动滚动的 navigation bar。官网",
-              "description": null,
+              "description": "telly/TLYShyNavBar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5321,7 +5321,7 @@
             {
               "node_type": "item",
               "title": "DOFavoriteButton：一个可爱的动画按钮。★官网",
-              "description": null,
+              "description": "okmr-d/DOFavoriteButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5342,7 +5342,7 @@
             {
               "node_type": "item",
               "title": "CVCalendar：支持 iOS 8+ 的自定义可视化日历，Swift（2.0）实现。★官网",
-              "description": null,
+              "description": "CVCalendar/CVCalendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5374,7 +5374,7 @@
             {
               "node_type": "item",
               "title": "ActionSheetPicker-3.0：为 iOS App 快速制作一个下拉 UIPickerView / ActionSheet 功能。官网",
-              "description": null,
+              "description": "skywinder/ActionSheetPicker-3.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5403,7 +5403,7 @@
             {
               "node_type": "item",
               "title": "gifu：iOS 上支持动态 GIF 的 Swift 框架。★官网",
-              "description": null,
+              "description": "kaishin/Gifu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5430,7 +5430,7 @@
             {
               "node_type": "item",
               "title": "DynamicColor：又一个用于操作颜色的 Swift 扩展。★官网",
-              "description": null,
+              "description": "yannickl/DynamicColor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5459,7 +5459,7 @@
             {
               "node_type": "item",
               "title": "VBFPopFlatButton：基于 Facebook POP制作的，有9种不同状态动画的扁平化按钮。官网",
-              "description": null,
+              "description": "victorBaro/VBFPopFlatButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5480,7 +5480,7 @@
             {
               "node_type": "item",
               "title": "BLKFlexibleHeightBar：创建一个高度可以自动调整的 NavigationBar，类似 Facebook ，Square Cash，Safari 中的那样。官网",
-              "description": null,
+              "description": "bryankeller/BLKFlexibleHeightBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5501,7 +5501,7 @@
             {
               "node_type": "item",
               "title": "RKNotificationHub：让任何 UIView 变成完善的通知中心。官网",
-              "description": null,
+              "description": "cwRichardKim/RKNotificationHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5522,7 +5522,7 @@
             {
               "node_type": "item",
               "title": "GuillotineMenu：铡刀样式过渡动画的下拉菜单。★官网",
-              "description": null,
+              "description": "Yalantis/GuillotineMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5552,7 +5552,7 @@
             {
               "node_type": "item",
               "title": "FontAwesomeKit：iOS 的图标字体库，现在支持 Font-Awesome，Foundation icons，Zocial 和 ionicons。官网",
-              "description": null,
+              "description": "PrideChung/FontAwesomeKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5573,7 +5573,7 @@
             {
               "node_type": "item",
               "title": "BEMCheckBox：优雅的 iOS 复选框。(Check box)官网",
-              "description": null,
+              "description": "Boris-Em/BEMCheckBox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5599,7 +5599,7 @@
             {
               "node_type": "item",
               "title": "STPopup：STPopup 为 iPhone 和 iPad 提供了一个 popup 样式的 UINavigationController。官网",
-              "description": null,
+              "description": "kevin-lyn/STPopup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5630,7 +5630,7 @@
             {
               "node_type": "item",
               "title": "SVWebViewController：一个非侵入式的内置浏览器。官网",
-              "description": null,
+              "description": "TransitApp/SVWebViewController",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5651,7 +5651,7 @@
             {
               "node_type": "item",
               "title": "MDCSwipeToChoose：滑动卡片来决定 \"喜欢\" 或者 \"不喜欢\" 的控件，效果类似 Tinder App。可以用于在几分钟内创建识字卡 app，图片浏览器或者其他类似应用，而不用几小时。官网",
-              "description": null,
+              "description": "modocache/MDCSwipeToChoose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5672,7 +5672,7 @@
             {
               "node_type": "item",
               "title": "AnimatedTransitionGallery：使用 UIViewControllerAnimatedTransitioning 协议实现了自定义 iOS 7 过渡动画。官网",
-              "description": null,
+              "description": "shu223/AnimatedTransitionGallery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5693,7 +5693,7 @@
             {
               "node_type": "item",
               "title": "PagingMenuController：有可定制的菜单的分页视图控制器，Swift 实现。★官网",
-              "description": null,
+              "description": "kitasuke/PagingMenuController",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5714,7 +5714,7 @@
             {
               "node_type": "item",
               "title": "WobbleView：WobbleView 是一个实现了流行的摇晃效果的视图。你可以在应用中方便的添加动态的用户交互和过渡效果。★官网",
-              "description": null,
+              "description": "dotintent/WobbleView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5735,7 +5735,7 @@
             {
               "node_type": "item",
               "title": "MMPopupView：基于 Pop-up 的视图(例如，AlertSheet)，支持方便地定制。官网",
-              "description": null,
+              "description": "adad184/MMPopupView",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5756,7 +5756,7 @@
             {
               "node_type": "item",
               "title": "SweetAlert：为 iOS 应用提供了实时动画效果的 AlertView，Swift 编写而成。★官网",
-              "description": null,
+              "description": "codestergit/SweetAlert-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5777,7 +5777,7 @@
             {
               "node_type": "item",
               "title": "PBJVision：iOS 相机引擎，支持点击拍摄，慢动作视频和图片捕捉功能。官网",
-              "description": null,
+              "description": "piemonte/PBJVision",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5810,7 +5810,7 @@
             {
               "node_type": "item",
               "title": "JLToast：iOS 的 Toast 组件，提供了简单的接口。★官网",
-              "description": null,
+              "description": "devxoul/Toaster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5835,7 +5835,7 @@
             {
               "node_type": "item",
               "title": "PullToBounce：UIScrollView 的下拉刷新控件。★官网",
-              "description": null,
+              "description": "takuoka/PullToBounce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5860,7 +5860,7 @@
             {
               "node_type": "item",
               "title": "ENSwiftSideMenu：一个 Swift 写的简洁 iOS7/8 侧滑菜单。★官网",
-              "description": null,
+              "description": "devgenios/ENSwiftSideMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5881,7 +5881,7 @@
             {
               "node_type": "item",
               "title": "SFFocusViewLayout：支持内容聚焦的 UICollectionViewLayout。官网",
-              "description": null,
+              "description": "fdzsergio/SFFocusViewLayout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5908,7 +5908,7 @@
             {
               "node_type": "item",
               "title": "MPParallaxView：Swift 实现的 Apple TV 视差效果。★官网",
-              "description": null,
+              "description": "DroidsOnRoids/MPParallaxView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5933,7 +5933,7 @@
             {
               "node_type": "item",
               "title": "KCFloatingActionButton：简洁的 iOS 浮动操作按钮。★官网",
-              "description": null,
+              "description": "kciter/Floaty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5958,7 +5958,7 @@
             {
               "node_type": "item",
               "title": "SAHistoryNavigationViewController：SAHistoryNavigationViewController 实现了一个在 iOS 上的类似任务管理器的 UI，兼容 UINavigationContoller,3D Touch。★官网",
-              "description": null,
+              "description": "marty-suzuki/SAHistoryNavigationViewController",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5983,7 +5983,7 @@
             {
               "node_type": "item",
               "title": "MZTimerLabel：让 UILabel 变成 倒计时器或者秒表的便利类，类似苹果的时钟应用。官网",
-              "description": null,
+              "description": "mineschan/MZTimerLabel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6004,7 +6004,7 @@
             {
               "node_type": "item",
               "title": "MotionBlur：MotionBlur 让你可以在 iOS 动画效果上添加模糊效果。官网",
-              "description": null,
+              "description": "fastred/MotionBlur",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6025,7 +6025,7 @@
             {
               "node_type": "item",
               "title": "CBZSplashView：Twitter 样式的启动页（Splash Screen）视图，缩放后显示主视图。官网",
-              "description": null,
+              "description": "callumboddy/CBZSplashView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6077,7 +6077,7 @@
             {
               "node_type": "item",
               "title": "ParallaxTableViewHeader：UITableView header 的视差滚动效果组件。官网",
-              "description": null,
+              "description": "Vinodh-G/ParallaxTableViewHeader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6098,7 +6098,7 @@
             {
               "node_type": "item",
               "title": "LiquidLoader：液体动画的加载器组件。★官网",
-              "description": null,
+              "description": "yoavlt/LiquidLoader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6119,7 +6119,7 @@
             {
               "node_type": "item",
               "title": "Cool-iOS-Camera：一个完全可定制的现代的照相机，使用 AVFoundation 框架实现。官网",
-              "description": null,
+              "description": "GabrielAlva/Cool-iOS-Camera",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6140,7 +6140,7 @@
             {
               "node_type": "item",
               "title": "AMSmoothAlert：一个很 cool 的 AlertView。官网",
-              "description": null,
+              "description": "mtonio91/AMSmoothAlert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6161,7 +6161,7 @@
             {
               "node_type": "item",
               "title": "SDevIconFonts：用于 Swift 的 Fontawesome, Iconic, Ionicons, Octicon。★官网",
-              "description": null,
+              "description": "segecey/SwiftIconFont",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6192,7 +6192,7 @@
             {
               "node_type": "item",
               "title": "CardAnimation：卡片翻页动画效果。★官网",
-              "description": null,
+              "description": "seedante/CardAnimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6213,7 +6213,7 @@
             {
               "node_type": "item",
               "title": "TVButton：重新创造一个非常酷的 Apple TV 视差图标用在 iOS UIButton 上（Swift 实现）。★官网",
-              "description": null,
+              "description": "marmelroy/TVButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6234,7 +6234,7 @@
             {
               "node_type": "item",
               "title": "Splitflap：Swift 应用的分屏显示框架。★官网",
-              "description": null,
+              "description": "yannickl/Splitflap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6258,7 +6258,7 @@
             {
               "node_type": "item",
               "title": "UIScrollView-InfiniteScroll：支持无限滚动的 UIScrollView 类别。★官网",
-              "description": null,
+              "description": "pronebird/UIScrollView-InfiniteScroll",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6284,7 +6284,7 @@
             {
               "node_type": "item",
               "title": "GaugeKit：可定制的仪表组件，可以方便地仿制苹果样式的仪表盘。★官网",
-              "description": null,
+              "description": "skywinder/GaugeKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6315,7 +6315,7 @@
             {
               "node_type": "item",
               "title": "BRYXBanner：Swift 的 iOS7+ 样式的下拉通知。 ★官网",
-              "description": null,
+              "description": "bryx-inc/BRYXBanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6336,7 +6336,7 @@
             {
               "node_type": "item",
               "title": "MZFormSheetPresentationController：MZFormSheetPresentationController 提供了一个原生 iOS UIModalPresentationFormSheet 的替代品，添加了对 iPhone 的支持，并且可以自定义 controller 的尺寸和表单的外观。官网",
-              "description": null,
+              "description": "m1entus/MZFormSheetPresentationController",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6389,7 +6389,7 @@
             {
               "node_type": "item",
               "title": "Motif：一个基于 JSON 的可定制轻量级样式表框架。官网",
-              "description": null,
+              "description": "erichoracek/Motif",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6416,7 +6416,7 @@
             {
               "node_type": "item",
               "title": "RAReorderableLayout：可以拖拽放置的 UICollectionView 元素。官网",
-              "description": null,
+              "description": "ra1028/RAReorderableLayout",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6437,7 +6437,7 @@
             {
               "node_type": "item",
               "title": "HTPressableButton：扁平化设计的可以按压的按钮。官网",
-              "description": null,
+              "description": "Famolus/HTPressableButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6461,7 +6461,7 @@
             {
               "node_type": "item",
               "title": "TisprCardStack：卡片 UI 库。★官网",
-              "description": null,
+              "description": "tispr/tispr-card-stack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6484,7 +6484,7 @@
             {
               "node_type": "item",
               "title": "EZSwipeController：类似 Snapchat/Tinder/iOS 主页的 UIPageViewController。★官网",
-              "description": null,
+              "description": "Esqarrouth/EZSwipeController",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6505,7 +6505,7 @@
             {
               "node_type": "item",
               "title": "NgKeyboardTracker：iOS 的键盘跟踪 Objective-C 库。官网",
-              "description": null,
+              "description": "meiwin/NgKeyboardTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6526,7 +6526,7 @@
             {
               "node_type": "item",
               "title": "cariocamenu：最快的无点击菜单。★官网",
-              "description": null,
+              "description": "zigzagg16/cariocamenu",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6557,7 +6557,7 @@
             {
               "node_type": "item",
               "title": "SevenSwitch：非侵入式的 iOS7 样式的开关替代品。★官网",
-              "description": null,
+              "description": "bvogelzang/SevenSwitch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6578,7 +6578,7 @@
             {
               "node_type": "item",
               "title": "AMTagListView：一个可以添加一系列高度可定制化的标签的 UIScrollView 子类。官网",
-              "description": null,
+              "description": "andreamazz/AMTagListView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6599,7 +6599,7 @@
             {
               "node_type": "item",
               "title": "Swift-Prompts：用来设计自定义提示的 Swift 库，有很大的范围可供选择。★官网",
-              "description": null,
+              "description": "GabrielAlva/Swift-Prompts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6620,7 +6620,7 @@
             {
               "node_type": "item",
               "title": "TTGSnackbar：在屏幕底部显示简单的消息和操作按钮，支持多种动画效果。★官网",
-              "description": null,
+              "description": "zekunyan/TTGSnackbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6647,7 +6647,7 @@
             {
               "node_type": "item",
               "title": "EatFit：Eat fit 是一个受 Google Fit 启发的用于漂亮地展示数据的组件。官网",
-              "description": null,
+              "description": "Yalantis/EatFit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6676,7 +6676,7 @@
             {
               "node_type": "item",
               "title": "NYAlertViewController：可以自定义内容视图的 iOS AlertView，可高度自定义。官网",
-              "description": null,
+              "description": "nealyoung/NYAlertViewController",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6697,7 +6697,7 @@
             {
               "node_type": "item",
               "title": "DatePickerDialog：在 UIAlertView 上显示 UIDatePicker 的 Swift 库。★官网",
-              "description": null,
+              "description": "squimer/DatePickerDialog-iOS-Swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6723,7 +6723,7 @@
             {
               "node_type": "item",
               "title": "DAExpandAnimation：以自定义的模态过渡效果，从 cell 中展开来呈现控制器的库。★官网",
-              "description": null,
+              "description": "ifitdoesntwork/DAExpandAnimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6750,7 +6750,7 @@
             {
               "node_type": "item",
               "title": "PickerView：Swift 实现的自定义的 UIPickerView 替代品。★官网",
-              "description": null,
+              "description": "filipealva/PickerView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6778,7 +6778,7 @@
             {
               "node_type": "item",
               "title": "PickerView：Swift 写的可定制的 UIPickerView 替代品。官网",
-              "description": null,
+              "description": "filipealva/PickerView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6806,7 +6806,7 @@
             {
               "node_type": "item",
               "title": "CZPicker：iOS 的 Popup 样式的 UIPickerView.官网",
-              "description": null,
+              "description": "chenzeyu/CZPicker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6831,7 +6831,7 @@
             {
               "node_type": "item",
               "title": "WCFastCell：滚动流畅的 Tables/Collections cell (没有动画)。官网",
-              "description": null,
+              "description": "wokalski/WCFastCell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6852,7 +6852,7 @@
             {
               "node_type": "item",
               "title": "iOS-CircleProgressView：这个空间允许用户用代码或者 interface builder 初始化或创建并渲染一个圆形的进度条视图。★官网",
-              "description": null,
+              "description": "CardinalNow/iOS-CircleProgressView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6873,7 +6873,7 @@
             {
               "node_type": "item",
               "title": "ScrollPager：类似 Flipboard 的滚动翻页。★官网",
-              "description": null,
+              "description": "aryaxt/ScrollPager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6894,7 +6894,7 @@
             {
               "node_type": "item",
               "title": "EZAlertController：便捷的 Swift UIAlertController。★官网",
-              "description": null,
+              "description": "thellimist/EZAlertController",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6915,7 +6915,7 @@
             {
               "node_type": "item",
               "title": "HDNotificationView：使用模仿原生的通知横幅 UI，发出任何警告。官网",
-              "description": null,
+              "description": "nhdang103/HDNotificationView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6936,7 +6936,7 @@
             {
               "node_type": "item",
               "title": "PMTween：优雅灵活的 iOS 渐变库。官网",
-              "description": null,
+              "description": "poetmountain/PMTween",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6963,7 +6963,7 @@
             {
               "node_type": "item",
               "title": "SwiftWebVC：一个 SVWebViewController 的 Swift 实现。★官网",
-              "description": null,
+              "description": "meismyles/SwiftWebVC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6990,7 +6990,7 @@
             {
               "node_type": "item",
               "title": "JTMaterialSwitch：一个受 Google 的 Material Design 启发的可定制的开关 UI，有波纹效果和弹性动画。官网",
-              "description": null,
+              "description": "JunichiT/JTMaterialSwitch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7011,7 +7011,7 @@
             {
               "node_type": "item",
               "title": "MediumMenu：一个基于 Medium iOS 应用的菜单。★官网",
-              "description": null,
+              "description": "pixyzehn/MediumMenu",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7032,7 +7032,7 @@
             {
               "node_type": "item",
               "title": "IQDropDownTextField：提供了下拉 UIPickerView 支持的 UITextField。官网",
-              "description": null,
+              "description": "hackiftekhar/IQDropDownTextField",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7053,7 +7053,7 @@
             {
               "node_type": "item",
               "title": "HTYTextField：一个有弹性的站位文字的 UITextField。★官网",
-              "description": null,
+              "description": "hanton/HTYTextField",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7074,7 +7074,7 @@
             {
               "node_type": "item",
               "title": "SSBouncyButton：有弹性的 iOS7 样式按钮 UI 组件。官网",
-              "description": null,
+              "description": "StyleShare/SSBouncyButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7095,7 +7095,7 @@
             {
               "node_type": "item",
               "title": "RadialMenu：RadialMenu 是一个提供了触控的上下文菜单（类似 iOS8 中 iMessage 的录制按钮）的自定义控件。使用 Swift 和 POP 框架构建。★官网",
-              "description": null,
+              "description": "bradjasper/RadialMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7124,7 +7124,7 @@
             {
               "node_type": "item",
               "title": "SAInboxViewController：受到 \"Inbox by google\" 动画过渡效果启发的 UIViewController 子类。★官网",
-              "description": null,
+              "description": "marty-suzuki/SAInboxViewController",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7145,7 +7145,7 @@
             {
               "node_type": "item",
               "title": "TTGEmojiRate：iOS 的类似 emoji 的评分视图。★官网",
-              "description": null,
+              "description": "zekunyan/TTGEmojiRate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7174,7 +7174,7 @@
             {
               "node_type": "item",
               "title": "InteractivePlayerView：自定义的 iOS 音乐播放器视图。★官网",
-              "description": null,
+              "description": "AhmettKeskin/InteractivePlayerView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7195,7 +7195,7 @@
             {
               "node_type": "item",
               "title": "ARAutocompleteTextView：subclass of 实时显示文本提示的 UITextView 的子类。完美支持 e-mail 格式。官网",
-              "description": null,
+              "description": "alexruperez/ARAutocompleteTextView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7216,7 +7216,7 @@
             {
               "node_type": "item",
               "title": "KCJogDial：提供控制功能的 UIView，类似一个转轮控制器。★官网",
-              "description": null,
+              "description": "kciter/HorizontalDial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7237,7 +7237,7 @@
             {
               "node_type": "item",
               "title": "HoneycombView：HoneycombView 是用来显示类似 Honyecomb 布局的 iOS UIView，由 Swift 实现。★官网",
-              "description": null,
+              "description": "suzuki-0000/HoneycombView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7262,7 +7262,7 @@
             {
               "node_type": "item",
               "title": "RPLoadingAnimation：Swift 实现的基于 CALayer 的加载动画。★官网",
-              "description": null,
+              "description": "naoyashiga/RPLoadingAnimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7275,7 +7275,7 @@
                 "open_issues": 1,
                 "owner": "naoyashiga",
                 "repo": "RPLoadingAnimation",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "ios-animation"
                 ]
@@ -7285,7 +7285,7 @@
             {
               "node_type": "item",
               "title": "NMPopUpView：用于显示浮动窗口的简单 iOS 类。支持 Swift 和 Objective-C。★官网",
-              "description": null,
+              "description": "psy2k/NMPopUpView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7309,7 +7309,7 @@
             {
               "node_type": "item",
               "title": "HorizontalProgress：简单的动画水平进度条。官网",
-              "description": null,
+              "description": "AliThink/HorizontalProgress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7330,7 +7330,7 @@
             {
               "node_type": "item",
               "title": "VLDContextSheet：类似 Pinterest iOS app 中的菜单。官网",
-              "description": null,
+              "description": "vangelov/VLDContextSheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7351,7 +7351,7 @@
             {
               "node_type": "item",
               "title": "StarryStars：iOS GUI 库，用于显示和编辑评分。官网",
-              "description": null,
+              "description": "peterprokop/StarryStars",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7372,7 +7372,7 @@
             {
               "node_type": "item",
               "title": "phone-number-picker：一个 Swift 实现的简单易用的视图控制器，类似 WhatsApp 那样让你输入带有国家代码电话号码。★官网",
-              "description": null,
+              "description": "hughbe/phone-number-picker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7393,7 +7393,7 @@
             {
               "node_type": "item",
               "title": "ColorArt：从图片中取出主要颜色，类似 iTunes 11 的效果。官网",
-              "description": null,
+              "description": "vinhnx/ColorArt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7414,7 +7414,7 @@
             {
               "node_type": "item",
               "title": "ESTabBarController：一个允许高亮按钮和自定义按钮动作的 Tabbar 控制器。官网",
-              "description": null,
+              "description": "ezescaruli/ESTabBarController",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7435,7 +7435,7 @@
             {
               "node_type": "item",
               "title": "JTFadingInfoView：一个基于 UIButton 的支持淡入淡出动画特性的视图。官网",
-              "description": null,
+              "description": "JunichiT/JTFadingInfoView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7456,7 +7456,7 @@
             {
               "node_type": "item",
               "title": "KCSelectionDialog：简单的选择对话框。★官网",
-              "description": null,
+              "description": "kciter/SelectionDialog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7477,7 +7477,7 @@
             {
               "node_type": "item",
               "title": "Hamburger-Menu-Button：一个高度可定制的汉堡包菜单按钮。★官网",
-              "description": null,
+              "description": "toannt/Hamburger-Menu-Button",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7498,7 +7498,7 @@
             {
               "node_type": "item",
               "title": "JDSwiftAvatarProgress：方便自定义的异步加载展位图进度条动画。★官网",
-              "description": null,
+              "description": "JellyDevelopment/JDSwiftAvatarProgress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7519,7 +7519,7 @@
             {
               "node_type": "item",
               "title": "MVAutocompletePlaceSearchTextField：一个类似 Google Places，Uber 等位置搜索的非侵入式自动完成控件。官网",
-              "description": null,
+              "description": "TheMrugraj/MVAutocompletePlaceSearchTextField",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7540,7 +7540,7 @@
             {
               "node_type": "item",
               "title": "YXTPageView：一个支持 UIView 和 UITableView 之间滚动切换的 PageView。官网",
-              "description": null,
+              "description": "hanton/YXTPageView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7561,7 +7561,7 @@
             {
               "node_type": "item",
               "title": "MVMaterialView：用来模仿 Material Design 概念波纹（Ripple）效果 UI 控件的子类和 UIButton。官网",
-              "description": null,
+              "description": "TheMrugraj/MVMaterialView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7582,7 +7582,7 @@
             {
               "node_type": "item",
               "title": "RadialLayer：可点击元素的动画。★官网",
-              "description": null,
+              "description": "soheil-zz/RadialLayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7603,7 +7603,7 @@
             {
               "node_type": "item",
               "title": "Form：JSON 驱动的列表控件。官网",
-              "description": null,
+              "description": "hyperoslo/Form",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7624,7 +7624,7 @@
             {
               "node_type": "item",
               "title": "JRSplitVC：自适应布局的 UISplitViewController。官网",
-              "description": null,
+              "description": "tommypeps/JRSplitVC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7645,7 +7645,7 @@
             {
               "node_type": "item",
               "title": "PJAlertView：苹果弃用了原来好用的警告视图，让我们失去了很多的定制性，这个库重新将定制性带回来。官网",
-              "description": null,
+              "description": "PrajeetShrestha/PJAlertView",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7673,7 +7673,7 @@
             {
               "node_type": "item",
               "title": "Socket Rocket：一个一致的 Objective-C WebSocket 客户端库。官网",
-              "description": null,
+              "description": "facebookincubator/SocketRocket",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7701,7 +7701,7 @@
             {
               "node_type": "item",
               "title": "SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★官网",
-              "description": null,
+              "description": "realm/SwiftLint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7729,7 +7729,7 @@
             {
               "node_type": "item",
               "title": "Flex：一个嵌入 iOS App 的调试和探索工具。官网",
-              "description": null,
+              "description": "FLEXTool/FLEX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7771,7 +7771,7 @@
             {
               "node_type": "item",
               "title": "DCIntrospect：小型的 iOS 可视化调试工具库。官网",
-              "description": null,
+              "description": "domesticcatsoftware/DCIntrospect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7792,7 +7792,7 @@
             {
               "node_type": "item",
               "title": "KZBootstrap：一系列的脚本和注释，代码质量很差时，在编译时产生额外的错误和警告。官网",
-              "description": null,
+              "description": "krzysztofzablocki/Bootstrap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7813,7 +7813,7 @@
             {
               "node_type": "item",
               "title": "Watchdog：一个用于记录阻塞主线程的过重任务的类。★官网",
-              "description": null,
+              "description": "wojteklu/Watchdog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7861,7 +7861,7 @@
             {
               "node_type": "item",
               "title": "DWURecyclingAlert：优化 UITableViewCell 的滚动流畅性。官网",
-              "description": null,
+              "description": "diwu/DWURecyclingAlert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7882,7 +7882,7 @@
             {
               "node_type": "item",
               "title": "SwiftCop：SwiftCop 是一个很实用的格式验证库，灵感来自 Ruby On Rails 清晰的活动记录验证。★官网",
-              "description": null,
+              "description": "andresinaka/SwiftCop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7908,7 +7908,7 @@
             {
               "node_type": "item",
               "title": "ocstyle：Objective-C 代码风格检查器。官网",
-              "description": null,
+              "description": "Cue/ocstyle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7929,7 +7929,7 @@
             {
               "node_type": "item",
               "title": "KZAsserts：一系列的自定义断言，使用 DSL 来自动生成 NSError，允许在 Debug 时断言和在 Release 时捕获错误。官网",
-              "description": null,
+              "description": "krzysztofzablocki/KZAsserts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7957,7 +7957,7 @@
             {
               "node_type": "item",
               "title": "ARAnalytics：抽象的分析框架，提供了聪明的 API 来跟踪事件和用户数据。官网",
-              "description": null,
+              "description": "orta/ARAnalytics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7978,7 +7978,7 @@
             {
               "node_type": "item",
               "title": "Segment：将分析继承进 iOS 应用中的简单方式。官网",
-              "description": null,
+              "description": "segmentio/analytics-ios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8006,7 +8006,7 @@
             {
               "node_type": "item",
               "title": "Venmo：在你的应用中支持和接受通过 Venmo 的支付。官网",
-              "description": null,
+              "description": "venmo/venmo-ios-sdk",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8034,7 +8034,7 @@
             {
               "node_type": "item",
               "title": "DateTools：简便的 Objective-C 日期和时间工具。官网",
-              "description": null,
+              "description": "MatthewYork/DateTools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8055,7 +8055,7 @@
             {
               "node_type": "item",
               "title": "Async：Swift 的 GCD 异步派发语法糖。★官网",
-              "description": null,
+              "description": "duemunk/Async",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8076,7 +8076,7 @@
             {
               "node_type": "item",
               "title": "Colours：这是一套与定义的颜色和颜色方法，让你的 iOS／OS X 开发更加方便。官网",
-              "description": null,
+              "description": "bennyguitar/Colours",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8103,7 +8103,7 @@
             {
               "node_type": "item",
               "title": "EZSwiftExtensions：:smirk:标准类型和类是如何工作的。★官网",
-              "description": null,
+              "description": "Esqarrouth/EZSwiftExtensions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8132,7 +8132,7 @@
             {
               "node_type": "item",
               "title": "EKAlgorithms：一些知名的计算机科学算法和数据结构的 Objective-C 实现。官网",
-              "description": null,
+              "description": "EvgenyKarkan/EKAlgorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8156,7 +8156,7 @@
             {
               "node_type": "item",
               "title": "ObjectiveSugar：Ruby 风格的 ObjectiveC 附件。官网",
-              "description": null,
+              "description": "supermarin/ObjectiveSugar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8177,7 +8177,7 @@
             {
               "node_type": "item",
               "title": "GroundControl：iOS 远程配置。官网",
-              "description": null,
+              "description": "mattt/GroundControl",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8198,7 +8198,7 @@
             {
               "node_type": "item",
               "title": "RandomKit：Swift 随机数据生成器。★官网",
-              "description": null,
+              "description": "nvzqz/RandomKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8234,7 +8234,7 @@
             {
               "node_type": "item",
               "title": "Underscore.m：用来操作数据的 DSL。官网",
-              "description": null,
+              "description": "robb/Underscore.m",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8255,7 +8255,7 @@
             {
               "node_type": "item",
               "title": "ClusterPrePermissions：可重用的预授权工具，它可以让开发者在对话中获取系统权限之前询问用户。官网",
-              "description": null,
+              "description": "rsattar/ClusterPrePermissions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8276,7 +8276,7 @@
             {
               "node_type": "item",
               "title": "ChineseIDCardOCR: 利用前馈神经网络对身份证信息做OCR识别。 ★ 官网",
-              "description": null,
+              "description": "KevinGong2013/ChineseIDCardOCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8306,7 +8306,7 @@
             {
               "node_type": "item",
               "title": "Tactile：安全并且更加合乎习惯的响应收拾和控件事件的方式。★官网",
-              "description": null,
+              "description": "delba/Tactile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8327,7 +8327,7 @@
             {
               "node_type": "item",
               "title": "YOLOKit：让方块透过圆洞。官网",
-              "description": null,
+              "description": "mxcl/YOLOKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8348,7 +8348,7 @@
             {
               "node_type": "item",
               "title": "SwiftRandom：随即数据生成器。★官网",
-              "description": null,
+              "description": "thellimist/SwiftRandom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8369,7 +8369,7 @@
             {
               "node_type": "item",
               "title": "ReflectableEnum：Objective-C 枚举的反射。官网",
-              "description": null,
+              "description": "fastred/ReflectableEnum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8390,7 +8390,7 @@
             {
               "node_type": "item",
               "title": "GCDKit：GCD 的 Swift 简化版。★官网",
-              "description": null,
+              "description": "JohnEstropia/GCDKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8411,7 +8411,7 @@
             {
               "node_type": "item",
               "title": "SBConstants：生成一个包含了 storyboard 中所有 identifier 的常量文件。官网",
-              "description": null,
+              "description": "paulsamuels/SBConstants",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8432,7 +8432,7 @@
             {
               "node_type": "item",
               "title": "VWWPermissionKit：可视化的 iOS 权限管理器。官网",
-              "description": null,
+              "description": "zakkhoyt/VWWPermissionKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8453,7 +8453,7 @@
             {
               "node_type": "item",
               "title": "XExtensionItem：方便地在 iOS 应用和分享扩展至简分享数据。官网",
-              "description": null,
+              "description": "tumblr/XExtensionItem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8474,7 +8474,7 @@
             {
               "node_type": "item",
               "title": "OpinionatedC：让 Objective-C 继承更多 Smalltalk 特性。官网",
-              "description": null,
+              "description": "leoschweizer/OpinionatedC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8502,7 +8502,7 @@
             {
               "node_type": "item",
               "title": "libextobjc：一个用于扩展 Objective-C 编程语言的 Cocoa。官网",
-              "description": null,
+              "description": "jspahrsummers/libextobjc",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8523,7 +8523,7 @@
             {
               "node_type": "item",
               "title": "Valet：在 iOS 和 OS X 的 Keychain 中安全地存储数据，然而你无需知道 keychain 的具体工作细节。官网",
-              "description": null,
+              "description": "square/Valet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8554,7 +8554,7 @@
             {
               "node_type": "item",
               "title": "UICKeyChainStore：UICKeyChainStore 是一个对 Keychain 的简洁封装。官网",
-              "description": null,
+              "description": "kishikawakatsumi/UICKeyChainStore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8579,7 +8579,7 @@
             {
               "node_type": "item",
               "title": "Locksmith：方便 Keychain 使用的强大的 Swift 面向协议库。★官网",
-              "description": null,
+              "description": "matthewpalmer/Locksmith",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8600,7 +8600,7 @@
             {
               "node_type": "item",
               "title": "cocoapods-keys：一个用来存储环境和应用键值的键值存储。官网",
-              "description": null,
+              "description": "orta/cocoapods-keys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8621,7 +8621,7 @@
             {
               "node_type": "item",
               "title": "simple-touch：非常简单的生物识别认证服务（Touch ID）的 Swift 封装。官网",
-              "description": null,
+              "description": "simple-machines/simple-touch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8666,7 +8666,7 @@
             "open_issues": 404,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13408,
+            "stars": 13407,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.031Z"
@@ -8674,7 +8674,7 @@
         {
           "node_type": "item",
           "title": "KZBootstrap：iOS 项目的 bootstrap，目的是高质量的编码。官网",
-          "description": null,
+          "description": "krzysztofzablocki/Bootstrap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8695,7 +8695,7 @@
         {
           "node_type": "item",
           "title": "liftoff：另一个用于创建 iOS 项目的 CLI。官网",
-          "description": null,
+          "description": "liftoffcli/liftoff",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8719,7 +8719,7 @@
         {
           "node_type": "item",
           "title": "crafter：这是一个允许你使用自定义的领域专用语言（DSL）语法来配置你的 iOS 项目模版的命令行工具（CLI），使用简单但性能强大。官网",
-          "description": null,
+          "description": "krzysztofzablocki/crafter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8740,7 +8740,7 @@
         {
           "node_type": "item",
           "title": "amaro：优秀的 iOS 样板。官网",
-          "description": null,
+          "description": "crushlovely/Amaro",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8761,7 +8761,7 @@
         {
           "node_type": "item",
           "title": "chairs：交换你的 iOS 模拟器文档。官网",
-          "description": null,
+          "description": "orta/chairs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8788,7 +8788,7 @@
         {
           "node_type": "item",
           "title": "Carthage：简单的分布式的 Cocoa 依赖管理器。★官网",
-          "description": null,
+          "description": "Carthage/Carthage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8814,7 +8814,7 @@
         {
           "node_type": "item",
           "title": "CocoaSeeds：Cocoa 的 Git 子模块替代品。官网",
-          "description": null,
+          "description": "devxoul/CocoaSeeds",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -8838,7 +8838,7 @@
         {
           "node_type": "item",
           "title": "SWM (Swift Modules)：一个类似 npm（node.js的包管理器）或者 bower（Twitter 的浏览器的包管理器） 的 Swift 项目的包／依赖管理器，无需使用 Xcode。★官网",
-          "description": null,
+          "description": "jankuca/swm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8867,7 +8867,7 @@
             {
               "node_type": "item",
               "title": "Quick：Swift 和 Objective-C 的 BDD 框架。官网",
-              "description": null,
+              "description": "Quick/Quick",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8896,7 +8896,7 @@
             {
               "node_type": "item",
               "title": "OHHTTPStubs：方便地为你的网络请求做存根（Stub）! 使用网络假数据测试你的 app ，你也可以自定义响应时间，响应代码和响应头！官网",
-              "description": null,
+              "description": "AliSoftware/OHHTTPStubs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8928,7 +8928,7 @@
             {
               "node_type": "item",
               "title": "Kiwi：一个用于 iOS 开发的 BDD 库。官网",
-              "description": null,
+              "description": "kiwi-bdd/Kiwi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8949,7 +8949,7 @@
             {
               "node_type": "item",
               "title": "Specta：轻量级 TDD / BDD Objective-C & Cocoa 开发框架。官网",
-              "description": null,
+              "description": "specta/specta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8975,7 +8975,7 @@
             {
               "node_type": "item",
               "title": "gh-unit：Objective-C 的测试框架。官网",
-              "description": null,
+              "description": "gh-unit/gh-unit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8996,7 +8996,7 @@
             {
               "node_type": "item",
               "title": "XcodeCoverage：Xcode 项目代码覆盖率。官网",
-              "description": null,
+              "description": "jonreid/XcodeCoverage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9021,7 +9021,7 @@
             {
               "node_type": "item",
               "title": "LayoutTest-iOS：一个测试视图的布局的框架，支持多种配置。官网",
-              "description": null,
+              "description": "linkedin/LayoutTest-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9042,7 +9042,7 @@
             {
               "node_type": "item",
               "title": "Dixie：Dixie 是一个开源的 Objective-C 测试框架。用于改变对象的行为。官网",
-              "description": null,
+              "description": "Skyscanner/Dixie",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9070,7 +9070,7 @@
             {
               "node_type": "item",
               "title": "Kif：一个 iOS 的函数式测试框架。官网",
-              "description": null,
+              "description": "kif-framework/KIF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9079,7 +9079,7 @@
                 "id": 1834942,
                 "language": "Objective-C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T23:01:10Z",
+                "last_commit": "2026-10-03T01:04:28Z",
                 "open_issues": 56,
                 "owner": "kif-framework",
                 "repo": "KIF",
@@ -9091,7 +9091,7 @@
             {
               "node_type": "item",
               "title": "Remote：在 Xcode 内部控制你的 iPhone 来做端到端的测试。官网",
-              "description": null,
+              "description": "johnno1962/Remote",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9114,7 +9114,7 @@
             {
               "node_type": "item",
               "title": "Subliminal：一个保守的 iOS 集成测试框架。官网",
-              "description": null,
+              "description": "inkling/Subliminal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9135,7 +9135,7 @@
             {
               "node_type": "item",
               "title": "robotframework-appiumlibrary：AppiumLibrary 是一个用于 RobotFramwork 的 appium 测试框架。官网",
-              "description": null,
+              "description": "serhatbolsu/robotframework-appiumlibrary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9164,7 +9164,7 @@
             {
               "node_type": "item",
               "title": "CrashMonkey：iOS 平台的 Monkey 测试工具。官网",
-              "description": null,
+              "description": "mokemokechicken/CrashMonkey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9192,7 +9192,7 @@
             {
               "node_type": "item",
               "title": "PonyDebugger：使用 Chrome 开发者工具对你的 iOS app 进行远程网络和数据调试。官网",
-              "description": null,
+              "description": "square/PonyDebugger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9213,7 +9213,7 @@
             {
               "node_type": "item",
               "title": "ios-snapshot-test-case：使用屏幕快照的 iOS 单元测试。官网",
-              "description": null,
+              "description": "facebookarchive/ios-snapshot-test-case",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9241,7 +9241,7 @@
             {
               "node_type": "item",
               "title": "boarding：即时为 TestFlight beta 测试者创建简单的注册页面。官网",
-              "description": null,
+              "description": "fastlane/boarding",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9273,7 +9273,7 @@
         {
           "node_type": "item",
           "title": "DoraemonKit: 一款功能齐全的iOS研发助手，你值得拥有。官网",
-          "description": "Github",
+          "description": "didi/DoKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9302,7 +9302,7 @@
         {
           "node_type": "item",
           "title": "R.swift：在 Swift 项目中，强类型的自动补全资源名称的工具，包括图片，单元格和 segue 的工具。★官网",
-          "description": null,
+          "description": "mac-cain13/R.swift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9332,7 +9332,7 @@
         {
           "node_type": "item",
           "title": "SwiftGen：一个生成 Swift 代码工具的集合（生成资源的枚举，storyboard，本地化字符串和 UIColor）。★官网",
-          "description": null,
+          "description": "SwiftGen/SwiftGen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9386,7 +9386,7 @@
         {
           "node_type": "item",
           "title": "Localize-Swift：Swift 2.0 实现在应用中切换语言的功能，帮助你的 APP 实现友好的本地化和国际化。★官网",
-          "description": null,
+          "description": "marmelroy/Localize-Swift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9407,7 +9407,7 @@
         {
           "node_type": "item",
           "title": "Provisioning：一个查看器插件，用于预览 .mobileprovision 文件。官网",
-          "description": null,
+          "description": "chockenberry/Provisioning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9428,7 +9428,7 @@
         {
           "node_type": "item",
           "title": "Blade：为 iOS 和 OS X 应用生成 Xcode 图片目录，全局图片和其他相关的东西。官网",
-          "description": null,
+          "description": "jondot/blade",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9449,7 +9449,7 @@
         {
           "node_type": "item",
           "title": "Shark：用于将 .xcassets 文件夹转换成一个类型安全枚举的 Swift 脚本。★官网",
-          "description": null,
+          "description": "kaandedeoglu/Shark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9470,7 +9470,7 @@
         {
           "node_type": "item",
           "title": "Retini：一个超级简单的 Retina（2x，3x）图片转换器。官网",
-          "description": null,
+          "description": "terwanerik/Retini",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9502,7 +9502,7 @@
         {
           "node_type": "item",
           "title": "injectionforxcode：代码注入，支持 Swift。官网",
-          "description": null,
+          "description": "johnno1962/injectionforxcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9526,7 +9526,7 @@
         {
           "node_type": "item",
           "title": "KZPlayground：Objective-C 版本的 Playground。官网",
-          "description": null,
+          "description": "krzysztofzablocki/Playgrounds",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9555,7 +9555,7 @@
         {
           "node_type": "item",
           "title": "dyci：代码注入工具。官网",
-          "description": null,
+          "description": "DyCI/dyci-main",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -9585,7 +9585,7 @@
         {
           "node_type": "item",
           "title": "MMBarricade：在运行时为 iOS app 配置本地服务器。官网",
-          "description": null,
+          "description": "griddynamics-archive/MMBarricade",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9606,7 +9606,7 @@
         {
           "node_type": "item",
           "title": "NetworkObjects：根据你的 Core Data 模型生成 RESTful 服务器。官网",
-          "description": null,
+          "description": "colemancda/NetworkObjects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9642,11 +9642,11 @@
             "id": 27442967,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:09:37Z",
-            "open_issues": 662,
+            "last_commit": "2026-10-03T01:21:26Z",
+            "open_issues": 663,
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42197,
+            "stars": 42198,
             "topics": [
               "android",
               "apps",
@@ -9766,8 +9766,8 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:16:42Z",
-                "open_issues": 334,
+                "last_commit": "2026-10-03T04:34:25Z",
+                "open_issues": 335,
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2569,
@@ -10034,7 +10034,7 @@
             {
               "node_type": "item",
               "title": "STTwitter：为 Twitter REST API 1.1 制作的稳定，成熟，全面的 Objective-C 库。官网",
-              "description": null,
+              "description": "nst/STTwitter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10055,7 +10055,7 @@
             {
               "node_type": "item",
               "title": "InstagramKit：Instagram iOS SDK。官网",
-              "description": null,
+              "description": "shyambhat/InstagramKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10082,7 +10082,7 @@
             {
               "node_type": "item",
               "title": "objectiveflickr：对象化的 Flickr， Objective-C 写的 Flickr API。官网",
-              "description": null,
+              "description": "lukhnos/objectiveflickr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10103,7 +10103,7 @@
             {
               "node_type": "item",
               "title": "FHSTwitterEngine：为 Cocoa 开发者提供的 Twitter API。官网",
-              "description": null,
+              "description": "natesymer/FHSTwitterEngine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10124,7 +10124,7 @@
             {
               "node_type": "item",
               "title": "UberKit：Objective-C 包装的简单易用的 Uber API。官网",
-              "description": null,
+              "description": "sachinkesiraju/UberKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10145,7 +10145,7 @@
             {
               "node_type": "item",
               "title": "DribbbleSDK：Dribbble iOS SDK。官网",
-              "description": null,
+              "description": "agilie/dribbble-ios-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10166,7 +10166,7 @@
             {
               "node_type": "item",
               "title": "Giphy： Giphy API 的 Objective-C iOS 客户端。官网",
-              "description": null,
+              "description": "heyalexchoi/Giphy-iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10187,7 +10187,7 @@
             {
               "node_type": "item",
               "title": "DropletKit：Objective-C 包装的 DigitalOcean v2 API。官网",
-              "description": null,
+              "description": "heyvito/DropletKit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10221,7 +10221,7 @@
             {
               "node_type": "item",
               "title": "Chameleon：iOS （Obj-C & Swift）的扁平化颜色框架。★官网",
-              "description": null,
+              "description": "vicc/chameleon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10242,7 +10242,7 @@
             {
               "node_type": "item",
               "title": "VVDocumenter-Xcode：方便的编写标准注释的 Xcode 插件。官网",
-              "description": null,
+              "description": "onevcat/VVDocumenter-Xcode",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10263,7 +10263,7 @@
             {
               "node_type": "item",
               "title": "KSImageNamed-Xcode：提供了图片名称自动补全功能的插件。官网",
-              "description": null,
+              "description": "ksuther/KSImageNamed-Xcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10284,7 +10284,7 @@
             {
               "node_type": "item",
               "title": "FuzzyAutocompletePlugin：提供了除前缀匹配之外的其他更加灵活的自动补全功能，支持 Xcode 5+。官网",
-              "description": null,
+              "description": "FuzzyAutocomplete/FuzzyAutocompletePlugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10305,7 +10305,7 @@
             {
               "node_type": "item",
               "title": "XAlign：一个 Xcode 代码自动对齐插件，它可以使用自定义的模式来对齐任何东西。官网",
-              "description": null,
+              "description": "qfish/XAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10331,7 +10331,7 @@
             {
               "node_type": "item",
               "title": "ColorSense-for-Xcode：可视化的颜色选择插件。官网",
-              "description": null,
+              "description": "omz/ColorSense-for-Xcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10352,7 +10352,7 @@
             {
               "node_type": "item",
               "title": "RTImageAssets：自动生成所需的全部 App 图标的插件。官网",
-              "description": null,
+              "description": "rickytan/RTImageAssets",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10378,7 +10378,7 @@
             {
               "node_type": "item",
               "title": "XToDo：一个显示项目中 TODO，FIXME，??? 和 !!! 列表的对话框。官网",
-              "description": null,
+              "description": "trawor/XToDo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10399,7 +10399,7 @@
             {
               "node_type": "item",
               "title": "UIColor-Hex-Swift：通过十六进制字符串创建 autorelease 颜色的便利方法。★官网",
-              "description": null,
+              "description": "yeahdongcn/UIColor-Hex-Swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10420,7 +10420,7 @@
             {
               "node_type": "item",
               "title": "Lin：这个插件提供了 NSLocalizedString 的自动补全插件。官网",
-              "description": null,
+              "description": "nek023/Lin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10441,7 +10441,7 @@
             {
               "node_type": "item",
               "title": "XCActionBar：Xcode 的 Alfred。官网",
-              "description": null,
+              "description": "pdcgomes/XCActionBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10478,7 +10478,7 @@
             {
               "node_type": "item",
               "title": "BBUncrustifyPlugin-Xcode：使用 ClangFormat 或 Uncrustify 格式化代码的插件。官网",
-              "description": null,
+              "description": "benoitsan/BBUncrustifyPlugin-Xcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10499,7 +10499,7 @@
             {
               "node_type": "item",
               "title": "SCXcodeMiniMap：SCXcodeMiniMap 为 Xcode 添加了代码地图功能官网",
-              "description": null,
+              "description": "stefanceriu/SCXcodeMiniMap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10525,7 +10525,7 @@
             {
               "node_type": "item",
               "title": "GitDiff：将与 git 仓库中不同的代码高亮。官网",
-              "description": null,
+              "description": "johnno1962/GitDiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10550,7 +10550,7 @@
             {
               "node_type": "item",
               "title": "Peckham：使用 #import 引用项目中的任何文件，提供代码提示。官网",
-              "description": null,
+              "description": "markohlebar/Peckham",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10576,7 +10576,7 @@
             {
               "node_type": "item",
               "title": "CATweaker：一个用于创建漂亮的 CAMediaTimingFunction 曲线的插件.官网",
-              "description": null,
+              "description": "keefo/CATweaker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10597,7 +10597,7 @@
             {
               "node_type": "item",
               "title": "BBUDebuggerTuckAway：当你开始编辑的时候帮你隐藏调试器栏的 Xcode 插件。官网",
-              "description": null,
+              "description": "neonichu/BBUDebuggerTuckAway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10618,7 +10618,7 @@
             {
               "node_type": "item",
               "title": "SCXcodeSwitchExpander：SCXcodeSwitchExpander 是一个可以帮你展开 switch 语句的插件，还会自动帮你插入 case 语句。官网",
-              "description": null,
+              "description": "stefanceriu/SCXcodeSwitchExpander",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10643,7 +10643,7 @@
             {
               "node_type": "item",
               "title": "MCLog：用于控制台内容筛选的插件。官网",
-              "description": null,
+              "description": "yuhua-chen/MCLog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10664,7 +10664,7 @@
             {
               "node_type": "item",
               "title": "XcodeWay：便捷地导航到多个地方。官网",
-              "description": null,
+              "description": "onmyway133/XcodeWay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10691,7 +10691,7 @@
             {
               "node_type": "item",
               "title": "Backlight-for-XCode：高亮当前编辑的行。官网",
-              "description": null,
+              "description": "limejelly/Backlight-for-XCode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10712,7 +10712,7 @@
             {
               "node_type": "item",
               "title": "KPRunEverywhereXcodePlugin：只需一次点击，就可以在多个 iOS 设备上构建，运行 App。官网",
-              "description": null,
+              "description": "kitschpatrol/KPRunEverywhereXcodePlugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10733,7 +10733,7 @@
             {
               "node_type": "item",
               "title": "AdjustFontSize：使用 / 快捷键调整字体大小。官网",
-              "description": null,
+              "description": "zats/AdjustFontSize-Xcode-Plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10754,7 +10754,7 @@
             {
               "node_type": "item",
               "title": "Reveal-In-GitHub：用一个快捷键就可以跳转到 GitHub 仓库的 History, Blame, PRs, Issues, Notifications。官网",
-              "description": null,
+              "description": "lzwjava/Reveal-In-GitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10775,7 +10775,7 @@
             {
               "node_type": "item",
               "title": "Show in Github：可以直接打开 Github 上当前正在编辑的行对应的 commit 页面。官网",
-              "description": null,
+              "description": "larsxschneider/ShowInGitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10803,7 +10803,7 @@
             {
               "node_type": "item",
               "title": "BBUFullIssueNavigator：这个插件让 Xcode 在 issue 导航栏显示所有的 issue 内容。官网",
-              "description": null,
+              "description": "neonichu/BBUFullIssueNavigator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10824,7 +10824,7 @@
             {
               "node_type": "item",
               "title": "MLAutoReplace：快速编码以及代码格式化插件，提升你的编码速度。官网",
-              "description": null,
+              "description": "molon/MLAutoReplace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10845,7 +10845,7 @@
             {
               "node_type": "item",
               "title": "RevealPlugin：将 Reveal App 和你的项目自动合为一体的 Xcode 插件。官网",
-              "description": null,
+              "description": "shjborage/Reveal-Plugin-for-Xcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10871,7 +10871,7 @@
             {
               "node_type": "item",
               "title": "Luft：帮助你实现轻量的 View Controller 的 Xcode 插件。官网",
-              "description": null,
+              "description": "k0nserv/luft",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10897,7 +10897,7 @@
             {
               "node_type": "item",
               "title": "CopyIssue：使复制 Xcode issuse 描述更简单。官网",
-              "description": null,
+              "description": "hanton/CopyIssue-Xcode-Plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10918,7 +10918,7 @@
             {
               "node_type": "item",
               "title": "XCSnippetr：直接上传代码片段到 Slack 和 Gist 的 Xcode 插件。官网",
-              "description": null,
+              "description": "dzenbot/XCSnippetr",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10939,7 +10939,7 @@
             {
               "node_type": "item",
               "title": "CleanHeaders-Xcode：类似 iSort 的头文件排序和重复消除插件，让你的头文件看起来更加有序。官网",
-              "description": null,
+              "description": "insanoid/CleanHeaders-Xcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10965,7 +10965,7 @@
             {
               "node_type": "item",
               "title": "AutoHighlightSymbol：高亮被选中的符号对应的所有实例。官网",
-              "description": null,
+              "description": "chiahsien/AutoHighlightSymbol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10986,7 +10986,7 @@
             {
               "node_type": "item",
               "title": "JumpMarks：使用有序的书签为你的代码做导航。官网",
-              "description": null,
+              "description": "merrickp/JumpMarks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11011,7 +11011,7 @@
             {
               "node_type": "item",
               "title": "QuickJump：Xcode 快速代码导航。官网",
-              "description": null,
+              "description": "wiruzx/QuickJump",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11032,7 +11032,7 @@
             {
               "node_type": "item",
               "title": "Aviator：这个插件将 AppCode 的 ⇧⌘T (source/test 切换) 带到 Xcode 中.官网",
-              "description": null,
+              "description": "marksands/Aviator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11060,7 +11060,7 @@
             {
               "node_type": "item",
               "title": "Xcode themes list：Xcode 的多彩主题。官网",
-              "description": null,
+              "description": "hdoria/xcode-themes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11081,7 +11081,7 @@
             {
               "node_type": "item",
               "title": "Solarized-Dark-for-Xcode：用于 Xcode5 的 Solarized Dark 主题.官网",
-              "description": null,
+              "description": "ArtSabintsev/Solarized-Dark-for-Xcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11113,7 +11113,7 @@
             {
               "node_type": "item",
               "title": "Dracula Theme：一个 Xcode 的暗色主题（仿 SublimeText）.官网",
-              "description": null,
+              "description": "zenorocha/dracula-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11141,7 +11141,7 @@
             {
               "node_type": "item",
               "title": "Synx：一个重新组织你的 Xcode 项目的命令行工具，它能够让你的 group 和文件夹对应起来。官网",
-              "description": null,
+              "description": "venmo/synx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -11342,7 +11342,7 @@
         {
           "node_type": "item",
           "title": "iOS8-day-by-day",
-          "description": "★",
+          "description": "ScottLogic/iOS8-day-by-day",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11403,7 +11403,7 @@
             "open_issues": 4,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52386,
+            "stars": 52392,
             "topics": [
               "app",
               "apple",
@@ -11644,7 +11644,7 @@
                 "open_issues": 111,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5890,
+                "stars": 5892,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -11664,7 +11664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:33:10.504Z",
+    "last_updated": "2026-10-03T04:50:30.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等",
