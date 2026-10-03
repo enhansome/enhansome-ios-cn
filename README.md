@@ -1,6 +1,6 @@
 # Awesome iOS资源大全中文版 with stars
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,502 | 🐛 27 | 🌐 Swift | 📅 2026-08-27 就是 vsouza 发起维护的 iOS 资源列表，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等。Swift 语言写成的项目会被标记为 ★ ，AppleWatch 的项目则会被标记为 ▲。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,510 | 🐛 27 | 🌐 Swift | 📅 2026-08-27 就是 vsouza 发起维护的 iOS 资源列表，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等。Swift 语言写成的项目会被标记为 ★ ，AppleWatch 的项目则会被标记为 ▲。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
@@ -206,9 +206,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### <a name="core-data"></a>Core Data
 
 * [MagicalRecord](http://hao.importnew.com/magicalrecord/)：非常优秀的 CoreData 便捷存取框架。[官网](https://github.com/magicalpanda/MagicalRecord) ⭐ 10,691 | 🐛 242 | 🌐 Objective-C | 📅 2021-04-27
-* [CoreStore](http://hao.importnew.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore) ⭐ 4,049 | 🐛 98 | 🌐 Swift | 📅 2026-10-02
-* Mogenerator：自动生成 CoreData 代码。[官网](https://github.com/rentzsch/mogenerator) ⭐ 3,015 | 🐛 22 | 🌐 Objective-C | 📅 2025-06-27
-* [Ensembles](http://hao.importnew.com/ensembles/)：一个 CoreData 同步框架。[官网](https://github.com/drewmccormack/ensembles) ⭐ 1,625 | 🐛 23 | 🌐 Objective-C | 📅 2026-08-05
+* [CoreStore](http://hao.importnew.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore) ⭐ 4,050 | 🐛 98 | 🌐 Swift | 📅 2026-10-02
+* Mogenerator：自动生成 CoreData 代码。[官网](https://github.com/rentzsch/mogenerator) ⭐ 3,014 | 🐛 22 | 🌐 Objective-C | 📅 2025-06-27
+* [Ensembles](http://hao.importnew.com/ensembles/)：一个 CoreData 同步框架。[官网](https://github.com/drewmccormack/ensembles) ⭐ 1,624 | 🐛 23 | 🌐 Objective-C | 📅 2026-08-05
 * QueryKit：一个简洁的类型安全的 CoreData 查询语言 ★[官网](https://github.com/QueryKit/QueryKit) ⭐ 1,456 | 🐛 6 | 🌐 Swift | 📅 2021-06-10
 * [ObjectiveRecord](http://hao.importnew.com/objectiverecord/)：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord) ⚠️ Archived
 * [encrypted-core-data](http://hao.importnew.com/encrypted-core-data/)：使用 SQLClipher 对 CoreData 的 SQLite 存储进行加密。[官网](https://github.com/project-imas/encrypted-core-data) ⭐ 778 | 🐛 101 | 🌐 Objective-C | 📅 2023-09-04
@@ -221,8 +221,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="database"></a>数据库
 
-* Realm：CoreData 和 SQLite 的替代品。简洁、现代、快速。[官网](https://github.com/realm/realm-cocoa) ⭐ 16,609 | 🐛 498 | 🌐 Objective-C | 📅 2026-09-27
-* FMDB：SQLite 的 Cocoa/Objective-C 封装。[官网](https://github.com/ccgus/fmdb) ⭐ 13,825 | 🐛 270 | 🌐 Objective-C | 📅 2026-03-15
+* Realm：CoreData 和 SQLite 的替代品。简洁、现代、快速。[官网](https://github.com/realm/realm-cocoa) ⭐ 16,610 | 🐛 498 | 🌐 Objective-C | 📅 2026-09-27
+* FMDB：SQLite 的 Cocoa/Objective-C 封装。[官网](https://github.com/ccgus/fmdb) ⭐ 13,824 | 🐛 270 | 🌐 Objective-C | 📅 2026-03-15
 * YapDatabase：YapDatabase 是一个 iOS 和 Mac 上可扩展的数据库。[官网](https://github.com/yapstudios/YapDatabase) ⭐ 3,328 | 🐛 110 | 🌐 Objective-C | 📅 2022-09-07
 * FCModel：为那些喜欢直接使用 SQL 进行数据库操作的人提供的 CoreData 的替代品。[官网](https://github.com/marcoarment/FCModel) ⭐ 1,639 | 🐛 30 | 🌐 Objective-C | 📅 2023-07-17
 * Zephyr：轻松地通过 iCloud 同步 NSUserDefaults ★[官网](https://github.com/ArtSabintsev/Zephyr) ⭐ 954 | 🐛 0 | 🌐 Swift | 📅 2026-08-16
@@ -267,7 +267,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="hud"></a>HUD
 
-* MBProgressHUD：用于显示一个半透明的 HUD。当任务在后台线程结束时可以在上边显示一个指示器和／或者标签。[官网](https://github.com/jdg/MBProgressHUD) ⭐ 15,909 | 🐛 94 | 🌐 Objective-C | 📅 2024-08-14
+* MBProgressHUD：用于显示一个半透明的 HUD。当任务在后台线程结束时可以在上边显示一个指示器和／或者标签。[官网](https://github.com/jdg/MBProgressHUD) ⭐ 15,908 | 🐛 94 | 🌐 Objective-C | 📅 2024-08-14
 * M13ProgressSuite：一个包含了很多 iOS 上用于显示进度信息工具的套装。[官网](https://github.com/Marxon13/M13ProgressSuite) ⭐ 3,894 | 🐛 48 | 🌐 Objective-C | 📅 2022-03-05
 * PKHUD：用 Swift 重新实现了 Apple 的原生 HUD，支持 iOS 8 以上★[官网](https://github.com/pkluz/PKHUD) ⭐ 3,771 | 🐛 64 | 🌐 Swift | 📅 2023-02-16
 * ProgressHUD：ProgressHUD 是一个轻量易用的 HUD。[官网](https://github.com/relatedcode/ProgressHUD) ⭐ 2,966 | 🐛 5 | 🌐 Swift | 📅 2026-09-13
@@ -277,7 +277,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="eventbus"></a>事件总线
 
-* PromiseKit：iOS 和 OS X 上的 Promises 实现。[官网](https://github.com/mxcl/PromiseKit) ⭐ 14,217 | 🐛 16 | 🌐 Swift | 📅 2026-06-03
+* PromiseKit：iOS 和 OS X 上的 Promises 实现。[官网](https://github.com/mxcl/PromiseKit) ⭐ 14,218 | 🐛 16 | 🌐 Swift | 📅 2026-06-03
 * Bolts：Bolts 是一个试图使构建移动应用更简单的一个底层库集合。包括了任务（promises）和应用关联（deep links）。[官网](https://github.com/BoltsFramework/Bolts-ObjC) ⭐ 5,617 | 🐛 42 | 🌐 Objective-C | 📅 2021-08-30
 * SwiftTask：Swift 实现的 Promise + progress + pause + cancel + retry。 ★[官网](https://github.com/ReactKit/SwiftTask) ⭐ 1,920 | 🐛 5 | 🌐 Swift | 📅 2019-04-15
 *   SwiftEventBus：一个针对 iOS 8 优化的发布／订阅事件总线。★[官网](https://github.com/cesarferreira/SwiftEventBus) ⭐ 1,121 | 🐛 8 | 🌐 Swift | 📅 2026-07-30
@@ -291,11 +291,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="json"></a>JSON
 
-* SwiftyJSON：使用 Swift 处理 JSON 数据的好方法。★[官网](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,934 | 🐛 139 | 🌐 Swift | 📅 2026-08-18
-* Mantle：面向 Cocoa 和 Cocoa Touch 的模型框架 Model 。[官网](https://github.com/Mantle/Mantle) ⭐ 11,241 | 🐛 0 | 🌐 Objective-C | 📅 2022-10-18
+* SwiftyJSON：使用 Swift 处理 JSON 数据的好方法。★[官网](https://github.com/SwiftyJSON/SwiftyJSON) ⭐ 22,935 | 🐛 139 | 🌐 Swift | 📅 2026-08-18
+* Mantle：面向 Cocoa 和 Cocoa Touch 的模型框架 Model 。[官网](https://github.com/Mantle/Mantle) ⭐ 11,240 | 🐛 0 | 🌐 Objective-C | 📅 2022-10-18
 * ObjectMapper：在模型对象（包括 class 和 struct）和 JSON 之间转换的 Swift 框架。★[官网](https://github.com/Hearst-DD/ObjectMapper) ⭐ 9,129 | 🐛 68 | 🌐 Swift | 📅 2024-05-02
 * JSONModel：神奇的基于 JSON 的数据模型化框架。创建了一系列敏捷便利，自动并且智能的模型类。[官网](https://github.com/icanzilb/JSONModel) ⭐ 6,801 | 🐛 35 | 🌐 Objective-C | 📅 2021-11-06
-* JSONKit：Objective-C JSON 工具。[官网](https://github.com/johnezang/JSONKit) ⭐ 6,171 | 🐛 103 | 🌐 Objective-C | 📅 2020-11-22
+* JSONKit：Objective-C JSON 工具。[官网](https://github.com/johnezang/JSONKit) ⭐ 6,170 | 🐛 103 | 🌐 Objective-C | 📅 2020-11-22
 * JSON-Framework：这个框架用 Objective-C 实现了一个严格的 JSON 解释器和生成器。[官网](https://github.com/stig/json-framework) ⭐ 3,715 | 🐛 1 | 🌐 Objective-C | 📅 2026-05-18
 * Gloss：一个 Swift 写的 JSON 解析库。★[官网](https://github.com/hkellaway/Gloss) ⚠️ Archived
 * KZPropertyMapper：以最少的代码实现数据映射和验证。[官网](https://github.com/krzysztofzablocki/KZPropertyMapper) ⭐ 1,117 | 🐛 3 | 🌐 Objective-C | 📅 2021-01-06
@@ -321,7 +321,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### <a name="logging"></a>日志
 
 * CocoaLumberjack：一个快捷强大灵活的日志框架，可用于 iOS & Mac。[官网](https://github.com/CocoaLumberjack/CocoaLumberjack) ⭐ 13,321 | 🐛 6 | 🌐 Objective-C | 📅 2026-09-21
-* NSLogger：一个高性能的日志工具，它可以显示运行在 OS X、iOS 和 Android 上客户端应用的踪迹。[官网](https://github.com/fpillet/NSLogger) ⭐ 4,977 | 🐛 50 | 🌐 Objective-C | 📅 2026-06-03
+* NSLogger：一个高性能的日志工具，它可以显示运行在 OS X、iOS 和 Android 上客户端应用的踪迹。[官网](https://github.com/fpillet/NSLogger) ⭐ 4,976 | 🐛 50 | 🌐 Objective-C | 📅 2026-06-03
 * CleanroomLogger：一个基于 Swift 可配置可扩展的日志 API，简洁、轻量并且高效。★[官网](https://github.com/emaloney/CleanroomLogger) ⭐ 1,315 | 🐛 25 | 🌐 Swift | 📅 2023-03-14
 * QorumLogs：为 Xcode 和 Google Docs 设计的 Swift 日志工具。★[官网](https://github.com/goktugyil/QorumLogs) ⭐ 772 | 🐛 8 | 🌐 Swift | 📅 2018-04-25
 * Aardvark：一个高性能日志框架，它使得创建可操作的 bug 报告变得非常简单。[官网](https://github.com/square/Aardvark/) ⭐ 262 | 🐛 11 | 🌐 Objective-C | 📅 2026-06-23
@@ -340,9 +340,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ##### <a name="image"></a>图片
 
-* SDWebImage：异步的图像下载器，提供了缓存支持。以 UIImageView 类别的方式提供。[官网](https://github.com/rs/SDWebImage) ⭐ 25,614 | 🐛 133 | 🌐 Objective-C | 📅 2026-04-15
-* GPU Image：一个基于 GPU 的 iOS 开源的图像和视频处理框架。[官网](https://github.com/BradLarson/GPUImage) ⭐ 20,291 | 🐛 1,000 | 🌐 Objective-C | 📅 2024-02-16
-* Nuke：高级的图片管理框架。★[官网](https://github.com/kean/Nuke) ⭐ 8,672 | 🐛 29 | 🌐 Swift | 📅 2026-09-26
+* SDWebImage：异步的图像下载器，提供了缓存支持。以 UIImageView 类别的方式提供。[官网](https://github.com/rs/SDWebImage) ⭐ 25,613 | 🐛 133 | 🌐 Objective-C | 📅 2026-04-15
+* GPU Image：一个基于 GPU 的 iOS 开源的图像和视频处理框架。[官网](https://github.com/BradLarson/GPUImage) ⭐ 20,290 | 🐛 1,000 | 🌐 Objective-C | 📅 2024-02-16
+* Nuke：高级的图片管理框架。★[官网](https://github.com/kean/Nuke) ⭐ 8,672 | 🐛 25 | 🌐 Swift | 📅 2026-10-03
 * FastImageCache：在滚动时快速显示图片的 iOS 框架。[官网](https://github.com/path/FastImageCache) ⭐ 8,049 | 🐛 40 | 🌐 Objective-C | 📅 2023-07-12
 * HanekeSwift：一个 Swift 编写的 iOS 平台的轻量级通用缓存框架，还有对图像的更多支持。★[官网](https://github.com/Haneke/HanekeSwift) ⭐ 5,150 | 🐛 96 | 🌐 Swift | 📅 2020-11-15
 * TOCropViewController：一个可以允许用户修改 UIImage 对象的视图控制器。[官网](https://github.com/TimOliver/TOCropViewController) ⭐ 4,948 | 🐛 106 | 🌐 Objective-C | 📅 2026-07-28
@@ -385,12 +385,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="networking"></a>网络
 
-* Alamofire：Alamofire 是一个 Swift 写的 HTTP 网络库，由 AFNetworking 的作者编写。★[官网](https://github.com/Alamofire/Alamofire) ⭐ 42,406 | 🐛 44 | 🌐 Swift | 📅 2026-10-01
+* Alamofire：Alamofire 是一个 Swift 写的 HTTP 网络库，由 AFNetworking 的作者编写。★[官网](https://github.com/Alamofire/Alamofire) ⭐ 42,406 | 🐛 43 | 🌐 Swift | 📅 2026-10-01
 * AFNetworking：一个得心应手的 iOS 和 OSX 上的网络请求框架。[官网](https://github.com/AFNetworking/AFNetworking) ⚠️ Archived
 * CocoaAsyncSocket：用于 Mac 和 iOS 的异步 socket 网络库。[官网](https://github.com/robbiehanson/CocoaAsyncSocket) ⭐ 12,441 | 🐛 0 | 🌐 Objective-C | 📅 2026-08-30
-* RestKit：RestKit 是一个 iOS Objective-C 框架，是为了让和 RESTful web 服务交互变的简单、快捷、有趣。[官网](https://github.com/RestKit/RestKit) ⭐ 10,081 | 🐛 364 | 🌐 Objective-C | 📅 2022-08-27
+* RestKit：RestKit 是一个 iOS Objective-C 框架，是为了让和 RESTful web 服务交互变的简单、快捷、有趣。[官网](https://github.com/RestKit/RestKit) ⭐ 10,080 | 🐛 364 | 🌐 Objective-C | 📅 2022-08-27
 * Reachability.swift：用 Swift 和闭包重新实现了苹果的 Reachablility 框架。★[官网](https://github.com/ashleymills/Reachability.swift) ⭐ 7,966 | 🐛 90 | 🌐 Swift | 📅 2024-10-03
-* ASIHTTPRequest：Objective-C 编写的 HTTP 网络请求库。它是对 CFNetwork 易用的封装。支持 Mac OS X 和 iPhone。[官网](https://github.com/pokeb/asi-http-request) ⭐ 5,719 | 🐛 167 | 🌐 Objective-C | 📅 2019-01-15
+* ASIHTTPRequest：Objective-C 编写的 HTTP 网络请求库。它是对 CFNetwork 易用的封装。支持 Mac OS X 和 iPhone。[官网](https://github.com/pokeb/asi-http-request) ⭐ 5,718 | 🐛 167 | 🌐 Objective-C | 📅 2019-01-15
 * NetworkEye：一个 iOS 网络调试库，可以显示 App 中的 HTTP 请求和请求的相关信息。[官网](https://github.com/coderyi/NetworkEye) ⭐ 1,399 | 🐛 19 | 🌐 Objective-C | 📅 2020-08-24
 * Overcoat：小巧但是很强大的库，让创建一个 REST 客户端简便和有趣。[官网](https://github.com/Overcoat/Overcoat) ⭐ 1,093 | 🐛 25 | 🌐 Objective-C | 📅 2016-10-20
 * NSRails：将客户端的对象／类映射到远程 REST API 的对象／ORM。[官网](https://github.com/dingbat/nsrails) ⚠️ Archived
@@ -430,7 +430,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### <a name="text"></a>文本
 
 * YYText：iOS 上用于显示和编辑富文本的强大文本框架。[官网](https://github.com/ibireme/YYText) ⭐ 8,863 | 🐛 516 | 🌐 Objective-C | 📅 2024-07-16
-* DTCoreText：利用 CoreText 使用 HTML 代码的方法。[官网](https://github.com/Cocoanetics/DTCoreText) ⭐ 6,391 | 🐛 0 | 🌐 Swift | 📅 2026-07-15
+* DTCoreText：利用 CoreText 使用 HTML 代码的方法。[官网](https://github.com/Cocoanetics/DTCoreText) ⭐ 6,390 | 🐛 0 | 🌐 Swift | 📅 2026-07-15
 * PhoneNumberKit：用于解析，格式化和验证国际电话号码的 Swift 框架，由谷歌的 libphonenumber 库支持。★[官网](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,387 | 🐛 20 | 🌐 Swift | 📅 2026-05-25
 * Twitter Text Obj：Twitter 的文本处理库的 Objective-C 实现。[官网](https://github.com/twitter/twitter-text) ⭐ 3,137 | 🐛 94 | 🌐 HTML | 📅 2024-04-26
 * RichEditorView：RichEditorView 是一个简单、模块化的富文本编辑器视图。★[官网](https://github.com/cjwirth/RichEditorView) ⚠️ Archived
@@ -607,14 +607,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### <a name="websocket"></a>WebSocket
 
-* Socket Rocket：一个一致的 Objective-C WebSocket 客户端库。[官网](https://github.com/square/SocketRocket) ⭐ 9,598 | 🐛 190 | 🌐 Objective-C | 📅 2025-12-04
+* Socket Rocket：一个一致的 Objective-C WebSocket 客户端库。[官网](https://github.com/square/SocketRocket) ⭐ 9,597 | 🐛 190 | 🌐 Objective-C | 📅 2025-12-04
 
 ### <a name="code-quality"></a>代码质量
 
-* SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★[官网](https://github.com/realm/SwiftLint) ⭐ 19,746 | 🐛 516 | 🌐 Swift | 📅 2026-10-02
-* Flex：一个嵌入 iOS App 的调试和探索工具。[官网](https://github.com/Flipboard/FLEX) ⭐ 14,640 | 🐛 50 | 🌐 Objective-C | 📅 2026-06-11
+* SwiftLint：一个实验性的工具，用于强化 Swift 的代码风格和习惯。★[官网](https://github.com/realm/SwiftLint) ⭐ 19,748 | 🐛 518 | 🌐 Swift | 📅 2026-10-02
+* Flex：一个嵌入 iOS App 的调试和探索工具。[官网](https://github.com/Flipboard/FLEX) ⭐ 14,639 | 🐛 50 | 🌐 Objective-C | 📅 2026-06-11
 * [chisel](http://hao.importnew.com/chisel/)：iOS app 的辅助调试工具，提供了一系列的 LLDB 命令。[官网](https://github.com/facebook/chisel) ⭐ 9,178 | 🐛 50 | 🌐 Python | 📅 2026-03-15
-* DCIntrospect：小型的 iOS 可视化调试工具库。[官网](https://github.com/domesticcatsoftware/DCIntrospect) ⭐ 2,165 | 🐛 29 | 🌐 Objective-C | 📅 2019-04-07
+* DCIntrospect：小型的 iOS 可视化调试工具库。[官网](https://github.com/domesticcatsoftware/DCIntrospect) ⭐ 2,164 | 🐛 29 | 🌐 Objective-C | 📅 2019-04-07
 * KZBootstrap：一系列的脚本和注释，代码质量很差时，在编译时产生额外的错误和警告。[官网](https://github.com/krzysztofzablocki/KZBootstrap) ⭐ 2,034 | 🐛 3 | 🌐 Objective-C | 📅 2020-10-20
 * Watchdog：一个用于记录阻塞主线程的过重任务的类。★[官网](https://github.com/wojteklu/Watchdog) ⭐ 1,872 | 🐛 1 | 🌐 Swift | 📅 2024-06-14
 * [spacecommander](http://hao.importnew.com/spacecommander/)：像一个团队那样，提交完全格式化的 Objective-C 代码。[官网](https://github.com/square/spacecommander) ⭐ 1,121 | 🐛 14 | 🌐 Objective-C | 📅 2025-08-26
@@ -656,7 +656,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Async：Swift 的 GCD 异步派发语法糖。★[官网](https://github.com/duemunk/Async) ⭐ 4,552 | 🐛 4 | 🌐 Swift | 📅 2024-04-11
 * Colours：这是一套与定义的颜色和颜色方法，让你的 iOS／OS X 开发更加方便。[官网](https://github.com/bennyguitar/Colours) ⭐ 3,081 | 🐛 13 | 🌐 Objective-C | 📅 2019-09-22
 * EZSwiftExtensions：:smirk:标准类型和类是如何工作的。★[官网](https://github.com/goktugyil/EZSwiftExtensions) ⭐ 2,966 | 🐛 34 | 🌐 Swift | 📅 2024-04-05
-* EKAlgorithms：一些知名的计算机科学算法和数据结构的 Objective-C 实现。[官网](https://github.com/EvgenyKarkan/EKAlgorithms) ⭐ 2,403 | 🐛 6 | 🌐 Objective-C | 📅 2024-09-19
+* EKAlgorithms：一些知名的计算机科学算法和数据结构的 Objective-C 实现。[官网](https://github.com/EvgenyKarkan/EKAlgorithms) ⭐ 2,404 | 🐛 6 | 🌐 Objective-C | 📅 2024-09-19
 * ObjectiveSugar：Ruby 风格的 ObjectiveC 附件。[官网](https://github.com/supermarin/ObjectiveSugar) ⚠️ Archived
 * GroundControl：iOS 远程配置。[官网](https://github.com/mattt/GroundControl) ⚠️ Archived
 * RandomKit：Swift 随机数据生成器。★[官网](https://github.com/nvzqz/RandomKit/) ⭐ 1,454 | 🐛 12 | 🌐 Swift | 📅 2022-06-09
@@ -684,7 +684,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 # <a name="project-setup"></a>项目安装
 
-* [Darling](http://hao.importnew.com/darling/)：在 Linux 运行 OS X 二进制文件。[官网](http://www.darlinghq.org)、[GitHub](https://github.com/LubosD/darling) ⭐ 13,407 | 🐛 404 | 🌐 Objective-C | 📅 2026-09-06
+* [Darling](http://hao.importnew.com/darling/)：在 Linux 运行 OS X 二进制文件。[官网](http://www.darlinghq.org)、[GitHub](https://github.com/LubosD/darling) ⭐ 13,405 | 🐛 404 | 🌐 Objective-C | 📅 2026-09-06
 * KZBootstrap：iOS 项目的 bootstrap，目的是高质量的编码。[官网](https://github.com/krzysztofzablocki/KZBootstrap) ⭐ 2,034 | 🐛 3 | 🌐 Objective-C | 📅 2020-10-20
 * liftoff：另一个用于创建 iOS 项目的 CLI。[官网](https://github.com/thoughtbot/liftoff) ⚠️ Archived
 * crafter：这是一个允许你使用自定义的领域专用语言（DSL）语法来配置你的 iOS 项目模版的命令行工具（CLI），使用简单但性能强大。[官网](https://github.com/krzysztofzablocki/crafter) ⭐ 548 | 🐛 7 | 🌐 Ruby | 📅 2017-03-06
@@ -748,10 +748,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * DoraemonKit: 一款功能齐全的iOS研发助手，你值得拥有。[官网](https://www.dokit.cn/) [Github](https://github.com/didi/DoraemonKit) ⭐ 20,420 | 🐛 277 | 🌐 Java | 📅 2026-09-22
 * R.swift：在 Swift 项目中，强类型的自动补全资源名称的工具，包括图片，单元格和 segue 的工具。★[官网](https://github.com/mac-cain13/R.swift) ⭐ 9,553 | 🐛 78 | 🌐 Swift | 📅 2025-04-01
-* SwiftGen：一个生成 Swift 代码工具的集合（生成资源的枚举，storyboard，本地化字符串和 UIColor）。★[官网](https://github.com/AliSoftware/SwiftGen) ⭐ 9,547 | 🐛 157 | 🌐 Swift | 📅 2026-04-16
+* SwiftGen：一个生成 Swift 代码工具的集合（生成资源的枚举，storyboard，本地化字符串和 UIColor）。★[官网](https://github.com/AliSoftware/SwiftGen) ⭐ 9,548 | 🐛 157 | 🌐 Swift | 📅 2026-04-16
 * [Laptop](http://hao.importnew.com/laptop/)：一个让Mac OS X或Linux更智能的shell脚本。[官网](https://thoughtbot.com/open-source) [Github](https://github.com/thoughtbot/laptop) ⭐ 8,556 | 🐛 1 | 🌐 Shell | 📅 2026-08-13
 * Localize-Swift：Swift 2.0 实现在应用中切换语言的功能，帮助你的 APP 实现友好的本地化和国际化。★[官网](https://github.com/marmelroy/Localize-Swift) ⭐ 3,122 | 🐛 76 | 🌐 Swift | 📅 2023-09-06
-* Provisioning：一个查看器插件，用于预览 .mobileprovision 文件。[官网](https://github.com/chockenberry/Provisioning) ⭐ 1,539 | 🐛 12 | 🌐 Objective-C | 📅 2017-12-21
+* Provisioning：一个查看器插件，用于预览 .mobileprovision 文件。[官网](https://github.com/chockenberry/Provisioning) ⭐ 1,538 | 🐛 12 | 🌐 Objective-C | 📅 2017-12-21
 * Blade：为 iOS 和 OS X 应用生成 Xcode 图片目录，全局图片和其他相关的东西。[官网](https://github.com/jondot/blade) ⭐ 816 | 🐛 9 | 🌐 Go | 📅 2017-12-08
 * Shark：用于将 .xcassets 文件夹转换成一个类型安全枚举的 Swift 脚本。★[官网](https://github.com/kaandedeoglu/Shark) ⭐ 382 | 🐛 0 | 🌐 Swift | 📅 2026-08-21
 * Retini：一个超级简单的 Retina（2x，3x）图片转换器。[官网](https://github.com/terwanerik/Retini) ⭐ 198 | 🐛 2 | 🌐 Objective-C | 📅 2021-05-09
@@ -768,7 +768,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 # <a name="deployment"></a>部署
 
-* [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,198 | 🐛 663 | 🌐 Ruby | 📅 2026-10-03 将所有 iOS 部署工具整合到一个工作流中。
+* [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,201 | 🐛 665 | 🌐 Ruby | 📅 2026-10-03 将所有 iOS 部署工具整合到一个工作流中。
 * [deliver](https://github.com/fastlane/deliver) ⚠️ Archived 部署截屏，app 元数据和 AppStore app 更新，这一切只需要一个命令就可以搞定。
 * [snapshot](https://github.com/fastlane/snapshot) ⚠️ Archived 自动地创建全部语言和全部设备的屏幕截图。
 
@@ -784,7 +784,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Facebook](https://github.com/facebook/facebook-ios-sdk) ⭐ 8,112 | 🐛 152 | 🌐 Swift | 📅 2026-10-02：Facebook iOS SDK。
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,749 | 🐛 150 | 🌐 Objective-C | 📅 2026-09-23：ResearchKit 是一个开源的软件框架，用它可方便的构建医疗研究应用或者其他的研究项目。
-* [Stripe](https://github.com/stripe/stripe-ios) ⭐ 2,569 | 🐛 335 | 🌐 Swift | 📅 2026-10-03：iOS and OS X Stripe 绑定框架。
+* [Stripe](https://github.com/stripe/stripe-ios) ⭐ 2,570 | 🐛 337 | 🌐 Swift | 📅 2026-10-03：iOS and OS X Stripe 绑定框架。
 * [AWS](https://github.com/aws/aws-sdk-ios) ⚠️ Archived：Amazon Web Services iOS 移动应用 SDK。
 * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) ⚠️ Archived：The PayPal 移动端 SDK，可以简便地在本地应用中集成 PayPal 和 信用卡支付。
 * [Spotify](https://github.com/spotify/ios-sdk) ⭐ 748 | 🐛 243 | 🌐 Objective-C | 📅 2026-06-08：Spotify iOS SDK。
@@ -807,7 +807,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * STTwitter：为 Twitter REST API 1.1 制作的稳定，成熟，全面的 Objective-C 库。[官网](https://github.com/nst/STTwitter) ⭐ 989 | 🐛 24 | 🌐 Objective-C | 📅 2022-12-26
 * InstagramKit：Instagram iOS SDK。[官网](https://github.com/shyambhat/InstagramKit) ⭐ 977 | 🐛 30 | 🌐 Objective-C | 📅 2020-06-12
-* objectiveflickr：对象化的 Flickr， Objective-C 写的 Flickr API。[官网](https://github.com/lukhnos/objectiveflickr) ⭐ 788 | 🐛 18 | 🌐 Objective-C | 📅 2015-11-13
+* objectiveflickr：对象化的 Flickr， Objective-C 写的 Flickr API。[官网](https://github.com/lukhnos/objectiveflickr) ⭐ 787 | 🐛 18 | 🌐 Objective-C | 📅 2015-11-13
 * FHSTwitterEngine：为 Cocoa 开发者提供的 Twitter API。[官网](https://github.com/fhsjaagshs/FHSTwitterEngine) ⭐ 214 | 🐛 9 | 🌐 Objective-C | 📅 2017-02-21
 * UberKit：Objective-C 包装的简单易用的 Uber API。[官网](https://github.com/sachinkesiraju/UberKit) ⭐ 94 | 🐛 13 | 🌐 Objective-C | 📅 2016-02-13
 * DribbbleSDK：Dribbble iOS SDK。[官网](https://github.com/agilie/dribbble-ios-sdk) ⭐ 73 | 🐛 0 | 🌐 Objective-C | 📅 2016-01-15
@@ -825,7 +825,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * XAlign：一个 Xcode 代码自动对齐插件，它可以使用自定义的模式来对齐任何东西。[官网](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08
 * ColorSense-for-Xcode：可视化的颜色选择插件。[官网](https://github.com/omz/ColorSense-for-Xcode) ⭐ 2,774 | 🐛 43 | 🌐 Objective-C | 📅 2016-03-22
 * RTImageAssets：自动生成所需的全部 App 图标的插件。[官网](https://github.com/rickytan/RTImageAssets) ⚠️ Archived
-* XToDo：一个显示项目中 TODO，FIXME，??? 和 !!! 列表的对话框。[官网](https://github.com/trawor/XToDo) ⭐ 1,534 | 🐛 27 | 🌐 Objective-C | 📅 2016-06-16
+* XToDo：一个显示项目中 TODO，FIXME，??? 和 !!! 列表的对话框。[官网](https://github.com/trawor/XToDo) ⭐ 1,533 | 🐛 27 | 🌐 Objective-C | 📅 2016-06-16
 * UIColor-Hex-Swift：通过十六进制字符串创建 autorelease 颜色的便利方法。★[官网](https://github.com/yeahdongcn/UIColor-Hex-Swift) ⭐ 1,243 | 🐛 5 | 🌐 Swift | 📅 2023-11-22
 * Lin：这个插件提供了 NSLocalizedString 的自动补全插件。[官网](https://github.com/questbeat/Lin) ⚠️ Archived
 * XCActionBar：Xcode 的 Alfred。[官网](https://github.com/pdcgomes/XCActionBar) ⭐ 1,198 | 🐛 9 | 🌐 Objective-C | 📅 2017-07-03
@@ -871,7 +871,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 # <a name="style-guides"></a>编码规范
 
-* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,151 | 🐛 16 | 📅 2025-04-01：raywenderlich.com 官方的 Swift 编码风格规范。★
+* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,150 | 🐛 16 | 📅 2025-04-01：raywenderlich.com 官方的 Swift 编码风格规范。★
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) ⭐ 10,977 | 🐛 22 | 📅 2024-04-30：[@futurice](https://github.com/futurice) 介绍的 iOS 入门指南和最佳实践。
 * [NY Times：Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived：纽约时报使用的 Objective-C 编码规范。
 * [Github：Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) ⚠️ Archived：github 的 Swift 编码风格和习惯指南。★
@@ -1007,8 +1007,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 你可以在下面找到其他十分优秀的列表
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 52,392 | 🐛 4 | 📅 2026-10-02 开源 iOS app 列表。
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 列表。
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 52,397 | 🐛 3 | 📅 2026-10-03 开源 iOS app 列表。
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,695 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 列表。
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,217 | 🐛 14 | 📅 2018-03-08：优秀的 iOS UI/UX 库列表。
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,467 | 🐛 0 | 📅 2025-10-28：包括了 Objective-C 和 Swift 实现的 iOS 动画库列表。
 * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,515 | 🐛 0 | 📅 2025-10-28：很棒的 iOS 图表库列表。包括了 Objective-C 和 Swift 两种语言。
@@ -1016,7 +1016,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) ⭐ 494 | 🐛 3 | 📅 2022-08-28 一个高质量，频繁更新并且被很好维护的 iOS 教程网站的完整集合。
 * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) ⭐ 248 | 🐛 0 | 📅 2015-08-16 watchkit app 例程和教程的列表。▲
 * 优秀的 Swift 列表
-  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) ⭐ 26,309 | 🐛 16 | 🌐 Ruby | 📅 2026-09-01：一个优秀的 Swift 资源合集列表。
+  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) ⭐ 26,311 | 🐛 16 | 🌐 Ruby | 📅 2026-09-01：一个优秀的 Swift 资源合集列表。
   * [@Wolg](https://github.com/Wolg/awesome-swift) ⭐ 5,892 | 🐛 111 | 📅 2026-04-12：一个很棒的 Swift 框架，库和软件的策划列表。
 
 ***
