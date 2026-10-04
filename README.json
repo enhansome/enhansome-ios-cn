@@ -74,7 +74,7 @@
                 "open_issues": 59,
                 "owner": "TheAmazingAudioEngine",
                 "repo": "TheAmazingAudioEngine",
-                "stars": 3075,
+                "stars": 3076,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:54.031Z"
@@ -1992,7 +1992,7 @@
                 "open_issues": 139,
                 "owner": "SwiftyJSON",
                 "repo": "SwiftyJSON",
-                "stars": 22935,
+                "stars": 22934,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -2344,7 +2344,7 @@
                 "open_issues": 10,
                 "owner": "SnapKit",
                 "repo": "SnapKit",
-                "stars": 20346,
+                "stars": 20347,
                 "topics": [
                   "auto",
                   "autolayout",
@@ -2861,7 +2861,7 @@
                     "open_issues": 25,
                     "owner": "kean",
                     "repo": "Nuke",
-                    "stars": 8672,
+                    "stars": 8675,
                     "topics": [
                       "cache",
                       "gif",
@@ -2927,7 +2927,7 @@
                     "id": 36997653,
                     "language": "Objective-C",
                     "license": "MIT",
-                    "last_commit": "2026-07-28T15:53:56Z",
+                    "last_commit": "2026-10-04T08:12:48Z",
                     "open_issues": 106,
                     "owner": "TimOliver",
                     "repo": "TOCropViewController",
@@ -3512,7 +3512,7 @@
                 "open_issues": 43,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42406,
+                "stars": 42407,
                 "topics": [
                   "alamofire",
                   "carthage",
@@ -4954,7 +4954,7 @@
                 "open_issues": 83,
                 "owner": "patchthecode",
                 "repo": "JTAppleCalendar",
-                "stars": 7648,
+                "stars": 7647,
                 "topics": [
                   "calendar",
                   "ios",
@@ -7686,7 +7686,7 @@
                 "open_issues": 190,
                 "owner": "facebookincubator",
                 "repo": "SocketRocket",
-                "stars": 9597,
+                "stars": 9598,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:54.031Z"
@@ -8663,10 +8663,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-06T18:24:21Z",
-            "open_issues": 404,
+            "open_issues": 405,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13405,
+            "stars": 13404,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.031Z"
@@ -9642,7 +9642,7 @@
             "id": 27442967,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-03T16:56:42Z",
+            "last_commit": "2026-10-04T15:44:16Z",
             "open_issues": 665,
             "owner": "fastlane",
             "repo": "fastlane",
@@ -9766,7 +9766,7 @@
                 "id": 6656911,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-03T23:02:32Z",
+                "last_commit": "2026-10-04T23:56:53Z",
                 "open_issues": 337,
                 "owner": "stripe",
                 "repo": "stripe-ios",
@@ -9843,7 +9843,7 @@
                 "open_issues": 243,
                 "owner": "spotify",
                 "repo": "ios-sdk",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "ios",
                   "spotify",
@@ -11207,7 +11207,7 @@
             "open_issues": 22,
             "owner": "futurice",
             "repo": "ios-good-practices",
-            "stars": 10977,
+            "stars": 10978,
             "topics": [
               "apple",
               "architecture",
@@ -11399,11 +11399,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-03T18:07:17Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-04T20:01:15Z",
+            "open_issues": 5,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52397,
+            "stars": 52411,
             "topics": [
               "app",
               "apple",
@@ -11445,7 +11445,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33695,
+            "stars": 33701,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.031Z"
@@ -11466,7 +11466,7 @@
             "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11217,
+            "stars": 11218,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.031Z"
@@ -11487,7 +11487,7 @@
             "open_issues": 0,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5467,
+            "stars": 5468,
             "topics": [
               "animations",
               "ios-animation",
@@ -11644,7 +11644,7 @@
                 "open_issues": 111,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5892,
+                "stars": 5894,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -11664,7 +11664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:54:16.198Z",
+    "last_updated": "2026-10-04T23:59:37.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等",
@@ -11676,7 +11676,7 @@
       "open_issues": 4,
       "owner": "jobbole",
       "repo": "awesome-ios-cn",
-      "stars": 4386,
+      "stars": 4385,
       "topics": []
     },
     "original_repository_sha": "5f2e1897205e26b05eed433f0d5c520c6e0dffff",
