@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "AudioKit",
                 "repo": "AudioKit",
-                "stars": 11477,
+                "stars": 11478,
                 "topics": [
                   "audio",
                   "audiokit",
@@ -190,7 +190,7 @@
                 "open_issues": 58,
                 "owner": "facebookarchive",
                 "repo": "pop",
-                "stars": 19513,
+                "stars": 19514,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:54.031Z"
@@ -569,7 +569,7 @@
                 "open_issues": 1,
                 "owner": "PhilJay",
                 "repo": "MPAndroidChart",
-                "stars": 38187,
+                "stars": 38185,
                 "topics": [
                   "android",
                   "chart",
@@ -1727,7 +1727,7 @@
                 "open_issues": 4,
                 "owner": "relatedcode",
                 "repo": "ProgressHUD",
-                "stars": 2967,
+                "stars": 2968,
                 "topics": [
                   "activity-indicator",
                   "apple",
@@ -2802,7 +2802,7 @@
                     "open_issues": 135,
                     "owner": "SDWebImage",
                     "repo": "SDWebImage",
-                    "stars": 25608,
+                    "stars": 25609,
                     "topics": [
                       "cache",
                       "carthage",
@@ -2861,7 +2861,7 @@
                     "open_issues": 25,
                     "owner": "kean",
                     "repo": "Nuke",
-                    "stars": 8679,
+                    "stars": 8680,
                     "topics": [
                       "cache",
                       "gif",
@@ -3512,7 +3512,7 @@
                 "open_issues": 46,
                 "owner": "Alamofire",
                 "repo": "Alamofire",
-                "stars": 42391,
+                "stars": 42392,
                 "topics": [
                   "alamofire",
                   "carthage",
@@ -3549,7 +3549,7 @@
                 "open_issues": 101,
                 "owner": "AFNetworking",
                 "repo": "AFNetworking",
-                "stars": 33343,
+                "stars": 33341,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:54.031Z"
@@ -4155,7 +4155,7 @@
                 "open_issues": 20,
                 "owner": "marmelroy",
                 "repo": "PhoneNumberKit",
-                "stars": 5389,
+                "stars": 5392,
                 "topics": [
                   "contacts",
                   "formatting",
@@ -4724,7 +4724,7 @@
                 "open_issues": 9,
                 "owner": "hackiftekhar",
                 "repo": "IQKeyboardManager",
-                "stars": 16618,
+                "stars": 16617,
                 "topics": [
                   "iqkeyboardmanager",
                   "keyboard",
@@ -5443,7 +5443,7 @@
                 "open_issues": 18,
                 "owner": "yannickl",
                 "repo": "DynamicColor",
-                "stars": 3079,
+                "stars": 3078,
                 "topics": [
                   "color",
                   "gradient",
@@ -7711,10 +7711,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-16T14:54:03Z",
-                "open_issues": 536,
+                "open_issues": 537,
                 "owner": "realm",
                 "repo": "SwiftLint",
-                "stars": 19763,
+                "stars": 19764,
                 "topics": [
                   "code-quality",
                   "hacktoberfest",
@@ -7738,8 +7738,8 @@
                 "id": 20277829,
                 "language": "Objective-C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-11T20:34:01Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-18T02:08:47Z",
+                "open_issues": 51,
                 "owner": "FLEXTool",
                 "repo": "FLEX",
                 "stars": 14639,
@@ -8536,7 +8536,7 @@
                 "open_issues": 1,
                 "owner": "square",
                 "repo": "Valet",
-                "stars": 4169,
+                "stars": 4170,
                 "topics": [
                   "crypto",
                   "face-id",
@@ -8663,10 +8663,10 @@
             "language": "Objective-C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-12T03:23:14Z",
-            "open_issues": 419,
+            "open_issues": 420,
             "owner": "darlinghq",
             "repo": "darling",
-            "stars": 13572,
+            "stars": 13589,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.031Z"
@@ -9083,7 +9083,7 @@
                 "open_issues": 55,
                 "owner": "kif-framework",
                 "repo": "KIF",
-                "stars": 6246,
+                "stars": 6247,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:28:54.031Z"
@@ -9286,7 +9286,7 @@
             "open_issues": 274,
             "owner": "didi",
             "repo": "DoKit",
-            "stars": 20415,
+            "stars": 20416,
             "topics": [
               "android",
               "ios",
@@ -9643,10 +9643,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-17T12:48:04Z",
-            "open_issues": 676,
+            "open_issues": 678,
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42253,
+            "stars": 42257,
             "topics": [
               "android",
               "apps",
@@ -9770,7 +9770,7 @@
                 "open_issues": 308,
                 "owner": "stripe",
                 "repo": "stripe-ios",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": [
                   "stripe",
                   "stripe-sdk"
@@ -11399,11 +11399,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-17T15:38:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-18T17:19:29Z",
+            "open_issues": 7,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52646,
+            "stars": 52672,
             "topics": [
               "app",
               "apple",
@@ -11445,7 +11445,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33727,
+            "stars": 33729,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.031Z"
@@ -11466,7 +11466,7 @@
             "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11220,
+            "stars": 11222,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:54.031Z"
@@ -11609,7 +11609,7 @@
                 "open_issues": 20,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26322,
+                "stars": 26332,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -11664,7 +11664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:12:39.234Z",
+    "last_updated": "2026-10-18T23:21:53.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等",
